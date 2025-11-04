@@ -1,0 +1,991 @@
+id,article_id,conversation_id,turn_id,"speaker_id","text",person_id,person_id_1,person_id_2,Emotion,EmotionalPolarity,Empathy,SelfDisclosure
+1,8,68,1,"38","Hello how are you?",38,38,75,1,1,1,NULL
+2,8,68,2,"75","Hello! Fine. How are you?",75,38,75,2,1,2,NULL
+3,8,68,3,"38","I'm good thanks for asking!",38,38,75,2,1,2,NULL
+4,8,68,4,"75","That's good, so I guess we are supposed to discuss the article. I wonder, if my family or I were in a place where my very life was at risk, what would I do?",75,38,75,2,1,3,NULL
+5,8,68,5,"38","That's a very scary thought to have honestly",38,38,75,3,2,4,NULL
+6,8,68,6,"75","Yes, I think it is something most people rather not imagine. But it is a reality. ",75,38,75,2,1,3,NULL
+7,8,68,7,"38","becoming more and more of a realityeveryday",38,38,75,2,1,3,NULL
+8,8,68,8,"75","Yes, it is sad for those who have to make hard decision. Sad also to hear people be so unsympathetic.",75,38,75,3,2,4,NULL
+9,8,68,9,"38","Yes and why is America taking so few refugees?",38,38,75,3,1,3,NULL
+10,8,68,10,"75","Not sure, I guess refugees are not top priority for anyone.",75,38,75,2,1,2,NULL
+11,8,68,11,"38","Maybe I was mis understanding the article, I thought it was talking about people fleeing, looking for a safe place to live..lol",38,38,75,2,1,1,NULL
+12,8,68,12,"75","Yes, that was the topic of the article.",75,38,75,1,1,1,NULL
+13,8,68,13,"38","I think everyone deserves a safe place t live",38,38,75,2,0,3,NULL
+14,8,68,14,"75","Yes, very much. I agree.",75,38,75,2,0,4,NULL
+15,8,68,15,"38","I'm not sure how I would handle being in that position",38,38,75,1,1,2,NULL
+16,8,68,16,"75","Me either, I would like to think I would do anything to help my family and survive.",75,38,75,2,0,4,NULL
+17,8,68,17,"38","Of course! I would probably be trying to flee as well if I'm being honest",38,38,75,2,1,3,NULL
+18,8,68,18,"75","That's brave! Hoping you would be welcomed in a foreign land. Scary thought!",75,38,75,4,0,4,NULL
+19,8,68,19,"38","Very scary thoughts!",38,38,75,4,2,3,NULL
+20,8,68,20,"75","Is your family from an immigrant background?",75,38,75,1,1,2,NULL
+21,8,68,21,"38","No, not at all thankfully. Yours?",38,38,75,2,0,3,NULL
+22,8,68,22,"75","No, I am Native American. I guess it is relative LOL",75,38,75,2,0,2,NULL
+23,8,68,23,"38","LOL, somewhat I guess. Where are you from?",38,38,75,2,1,2,NULL
+24,8,68,24,"75","Arizona. And yourself?",75,38,75,1,1,1,NULL
+25,8,68,25,"38","Kentucky. but I have been to Arizona and absolutely loved it!",38,38,75,3,0,3,NULL
+26,8,68,26,"75","Nice! Never been to Kentucky, what's the best place to visit?",75,38,75,3,1,2,NULL
+27,8,68,27,"38","KFC of course! Nah only joking. I think Cumberland Falls is pretty awesome! Mammoth Cave is intriging!",38,38,75,3,0,1,NULL
+28,8,68,28,"75","LOL!!! Sounds awesome :)",75,38,75,4,0,2,NULL
+29,8,68,29,"38","I acually want to move to Arizona or New Mexico",38,38,75,2,1,1,NULL
+30,8,68,30,"75","Really? Life is nice and cheaper than in other states, Tucson and Flagstaff are good areas. NM is awesome BTW, I love it.",75,38,75,3,0,2,NULL
+31,9,72,1,"65","hello anyone there?",65,65,79,1,1,1,NULL
+32,9,72,2,"79","hi",79,65,79,1,1,1,NULL
+33,9,72,3,"65","did we read the same article? ",65,65,79,1,1,1,NULL
+34,9,72,4,"79","Was yours about an explosion?",79,65,79,1,1,1,NULL
+35,9,72,5,"65","yeah, some guy stopped to sell fuel then boom!",65,65,79,2,1,1,NULL
+36,9,72,6,"79","yeah 73 people died",79,65,79,1,2,2,NULL
+37,9,72,7,"65","what was your first reaction? ",65,65,79,1,1,1,NULL
+38,9,72,8,"79","I was not very suprised ",79,65,79,1,1,1,NULL
+39,9,72,9,"65","really? why were you not surprised? ",65,65,79,2,1,1,NULL
+40,9,72,10,"79","It seems to happen often in africa and the thrid world",79,65,79,1,2,1,NULL
+41,9,72,11,"65","ooh, My first reaction was just sad for the loss of life",65,65,79,2,2,3,NULL
+42,9,72,12,"79","Yeah it was sad but happens often. do you remember where it was exzactly ",79,65,79,2,1,2,NULL
+43,9,72,13,"65","no\\",65,65,79,1,1,1,NULL
+44,9,72,14,"79","I think it was zimbabwae. Did your article have the actual cause",79,65,79,1,1,1,NULL
+45,9,72,15,"65","no they had a few suggestions, like lightning ",65,65,79,1,1,1,NULL
+46,9,72,16,"79","I think that is unlikely but maybe. you?",79,65,79,2,1,1,NULL
+47,9,72,17,"65","the chances of that happening are really low",65,65,79,1,1,1,NULL
+48,9,72,18,"79","Yeah maybe a attack or something more likely ",79,65,79,2,1,1,NULL
+49,9,72,19,"65","yeah might have been intentional ",65,65,79,2,1,1,NULL
+50,9,72,20,"79","That makes it sort of less sad in a way to me ",79,65,79,2,1,1,NULL
+51,9,72,21,"65","yeah kinda. what emotions did you get?",65,65,79,1,1,1,NULL
+52,9,72,22,"79","if it was an attack then more anger I guess",79,65,79,2,2,2,NULL
+53,9,72,23,"65","i felt some anger too",65,65,79,2,2,2,NULL
+54,9,72,24,"79","was it only men or any kids die?",79,65,79,1,1,1,NULL
+55,9,72,25,"65","they did not specify ",65,65,79,1,1,1,NULL
+56,9,72,26,"79","would it make you feel worse if so/",79,65,79,1,1,1,NULL
+57,9,72,27,"65","yes kids are just innocent creatures ",65,65,79,2,1,3,NULL
+58,9,72,28,"79","yes same for me ",79,65,79,2,1,2,NULL
+59,9,72,29,"65","anything else left to talk about?",65,65,79,1,1,1,NULL
+60,9,72,30,"79","i don't really think so we have a few rounds left tho so be quick",79,65,79,1,1,1,NULL
+61,9,74,1,"61","hello. Did you read the article?",61,61,81,1,1,1,NULL
+62,9,74,2,"81","hello, yes I did read the article",81,61,81,1,1,1,NULL
+63,9,74,3,"61","Such a tragedy. My first reaction was sadness. I felt so bad for them and their families.",61,61,81,3,2,4,NULL
+64,9,74,4,"81","It is indeed a tragedy. My first reaction was surprise, given the number of people that perished. I also feel for their families.",81,61,81,3,2,4,NULL
+65,9,74,5,"61"," Yes, surprise I felt that way too. I wonder what type of fire they said in the article that was burning near the tanker to cause it to explode and then they said another theory was a lightning strike. What do you think?",61,61,81,2,1,4,NULL
+66,9,74,6,"81","Lightning strike would be incredibly unlucky and uncommon. The article didn't seem to lean towards either theory. What do you think might have been the cause?",81,61,81,2,1,3,NULL
+67,9,74,7,"61"," Yeah, I see a lightning strike unlikely. They would use that as a reason I don't think I would believe that honestly. And there's no details though enough for me to even judge that I guess. They didn't really give too many details.",61,61,81,2,1,3,NULL
+68,9,74,8,"81","Yes, either way incredibly unfortunate. They stated that over a hundred people were injured in addition to the 73 that died and many tried to get to a nearby river. I'm sure the truth will come out with that many witnesses.",81,61,81,2,2,4,NULL
+69,9,74,9,"61","yes whenever I read that part man, I cannot even imagine, trying to get into a river on fire that would just be god-awful ",61,61,81,3,2,4,NULL
+70,9,74,10,"81","Yes, it made me think of some war photos that I have seen with bodies in vehicles from people that also died to I believe a bombing. I wonder who will be held responsible.",81,61,81,3,2,4,NULL
+71,9,74,11,"61","yeah, I know what you mean on that part. I wonder something this place it doesn't really say where it is besides the name Mozambique is that a region known for terrorist attacks?",61,61,81,2,1,3,NULL
+72,9,74,12,"81","I'm not familiar with that region. I believe they said the tanker was from a nearby city. I'm guessing that it occurred on something like a highway or interstate given that the number of people that had to have been in the vicinity seemed quite large.",81,61,81,2,1,3,NULL
+73,9,74,13,"61","I guess Google says that it is a country in east Africa the countries, 35th largest country",61,61,81,1,1,1,NULL
+74,9,74,14,"81","Yeah, I am not familiar with it at all besides knowing that it is in Africa. I do wonder if it could have been a terrorist attack. That would be a real shame.",81,61,81,2,2,4,NULL
+75,9,74,15,"61","I also fetched info off of Google for that just now it says:  Mozambique is still grappling with a military insurgency in parts of the gas-rich province of Cabo-Delgado; the four-year conflict has caused an estimated 4,000 deaths and displaced nearly one million people. How to see what year there's articles from that I'm looking at, but it isn't even on there",61,61,81,1,1,4,NULL
+76,9,74,16,"81","I can't imagine living somewhere like that. I wonder what leads to something like that being allowed to happen. What is their government doing?",81,61,81,3,2,2,NULL
+77,9,74,17,"61","Makes me thankful to be living in the USA every single day that's for sure!...(btw plz excuse my grammar mistakes and miss spellings and typos I'd like to blame it on my keyboard, but I just cannot do that.lol bcse it's totally me, but I know how to spell very clearly, but my hands are functioning today.)",61,61,81,3,0,3,NULL
+78,9,74,18,"81","No problem, I type faster than I should and often make mistakes. Yes, we have our own share of problems here but I am also thankful to be here. Makes me feel helpless sometimes hearing about these tragedies and not being able to do anything about it.",81,61,81,2,2,3,NULL
+79,9,74,19,"61","amen to that. You hit the nail on the head. We all have our own share of problems and i know there's somebody out there that always has it worse so whenever I get down on myself, I try to remember that it could always be worse.",61,61,81,3,0,4,NULL
+80,9,74,20,"81","Yes, whenever something like this really makes you think and trivializes everyday problems. It makes me thankful for what I have. ",81,61,81,3,0,4,NULL
+81,9,74,21,"61","Exactly! I may not have much, but I consider myself rich, because I am thankful for every single thing that I have. That's the truth.",61,61,81,3,0,3,NULL
+82,9,74,22,"81","That is an eloquent way of putting it. I do hope that someday people that suffer like that will have only mostly trivial problems to worry about like I do.",81,61,81,3,0,4,NULL
+83,9,74,23,"61","Right on! totally agree with you! Guess that only thing I feel like I can do is just say a prayer for them. ",61,61,81,3,0,4,NULL
+84,9,74,24,"81","A lot of times you hear stories like this in the news there is no clue given how to send support. I wish that there was a real way to send a donation or something. But, how would that even help really?",81,61,81,2,1,3,NULL
+85,9,74,25,"61","If you donate to the right charity, and do our research about it, like the Red Cross, they are well known, and very credible",61,61,81,2,1,3,NULL
+86,9,74,26,"81","That is true. I am sure that there is an organization there like the Red Cross. I imagine that they are still there helping people to rebuild their lives afterwards. It is a really selfless pursuit that people that work in those organization undertake.",81,61,81,2,0,3,NULL
+87,9,74,27,"61"," yes, the Red Cross is everywhere, and they go everywhere. All kinds of countries and help and all kinds of circumstances and I just noticed the time we're almost out of time and we still gotta do two messages each.",61,61,81,2,1,2,NULL
+88,9,74,28,"81","I remember Red Cross always have a donation stand outside of stores but haven't seen one in probably over a decade. I guess the way to make donations now is directly or online. Thanks for the chat and sharing your perspective.",81,61,81,2,1,3,NULL
+89,9,74,29,"61","oh wow really? I miss seeing the Salvation Army at Christmas time ringing the bell.",61,61,81,3,1,1,NULL
+90,9,74,30,"81","I still do see the Salvation Army outside of stores during the Holidays. I thought I remember seeing Red Cross too but could be wrong.",81,61,81,2,1,1,NULL
+91,10,80,1,"33","Hello?",33,33,89,0.5,1,1,NULL
+92,10,80,2,"89","Hi. what did you think of the article?",89,33,89,0.5,1,1,NULL
+93,10,80,3,"33","I am shocked that this would happen. I hate to wipe out the apes!",33,33,89,4,2,4,NULL
+94,10,80,4,"89","yeag, but everywhere you goyou will probably effect some kind of animal.  What if they just replanted afterwards too?",89,33,89,2,1,2,NULL
+95,10,80,5,"33","Yup. I dig. I thought that the article was oddly written, but I caught the main idea of it.",33,33,89,2,1,1,NULL
+96,10,80,6,"89","I am glad I am not the only one who had a hard time understanding it.  I think we always have to make some sort of compromise bewteen humans and other beings. we can;t just let them dictate. but I think individuals and not governements need to do it themsleves",89,33,89,2.5,1,1,NULL
+97,10,80,7,"33","Sure, It was written and then translated badly, I think.",33,33,89,2,1,1,NULL
+98,10,80,8,"89","yes, deinfitely not written by a native English speaker.  what would else could you gather though. I always wonder why peopel who believe in evolution try so hard to preserve species when it kind of goes against the whole idea. Maybe they could involve into something better adapted",89,33,89,2,1,2,NULL
+99,10,80,9,"33","What I get is that the apes (orangutans) are already at a 1700 population and then some kind of development for transport (or something) is being planned. My \"feelings\" are mostly subsumed by a cloud of mystery.",33,33,89,2,1,2,NULL
+100,10,80,10,"89","I'm gonna run out of time. What was even meant by the depth?",89,33,89,1,1,1,NULL
+101,10,80,11,"33","Yeah, anyway, I dig the Darwinian aspect. I just couldn't suss out what was really going on.",33,33,89,2,1,1,NULL
+102,10,80,12,"89","yeah I don't think I even gathered that they were goinf to move them or else I forgot",89,33,89,1.5,1,2,NULL
+103,10,80,13,"33","I found myself trying to re-read and then question what that was.",33,33,89,1,1,1,NULL
+104,10,80,14,"89","I also don;t think any one entity can be so sure what is sustainable or not",89,33,89,2,1,1,NULL
+105,10,80,15,"33","But this is going on in a place far from me as well",33,33,89,1.5,1,1,NULL
+106,10,80,16,"89","yeah, but there porbably animals dosplce when wher ew elive was settled",89,33,89,1.5,1,2,NULL
+107,10,80,17,"33","Well, it can't be as bad as California has been the last 5 years.",33,33,89,3,2,2,NULL
+108,10,80,18,"89","the fires you mean or what?",89,33,89,2,1,1,NULL
+109,10,80,19,"33","Yes. I am sure that there's entire species being moved ",33,33,89,2.5,1,1,NULL
+110,10,80,20,"89","I don;t like it but I don;t think we should do awya with people as a solution",89,33,89,3,1,3,NULL
+111,10,80,21,"33","...moved and wiped out and all. I have neighbors with cougars in their back yard",33,33,89,3,2,2,NULL
+112,10,80,22,"89","wow. if all species that eve lived were still here they would not asll fit",89,33,89,2.5,1,1,NULL
+113,10,80,23,"33","I suppose Indonesia must be landlocked or something? Can these apes escape or...?",33,33,89,2,1,2,NULL
+114,10,80,24,"89","I think it is a bunch of islands actually",89,33,89,2,1,1,NULL
+115,10,80,25,"33","Oh.. that's right...!",33,33,89,2,1,1,NULL
+116,10,80,26,"89","so I had mixed emotions to it, and I guess they evolved the longe rI thought about it",89,33,89,2,1,3,NULL
+117,10,80,27,"33","forgot my geography for a second... must be the clove cigarettes",33,33,89,2,1,1,NULL
+118,10,80,28,"89","I honestly think I was thinking of somewhere else while I read it too, until you made me think about it",89,33,89,2,1,1,NULL
+119,10,80,29,"33","they stated something like 700 to 1000 deaths out of a 1700 population - this is curiously precise math for such a sloppily translated article",33,33,89,3,1,2,NULL
+120,10,80,30,"89","haha. yeah.  I think a lot of it was specualtion",89,33,89,2.5,1,1,NULL
+121,12,85,1,"75","Hello, good morning! How are you? ",75,75,74,3,0,1,NULL
+122,12,85,2,"74","i am good. thanks",74,75,74,1,0,1,NULL
+123,12,85,3,"75","I guess we can discuss the article now. Firs reaction is of sadness. ",75,75,74,3,2,4,NULL
+124,12,85,4,"74","yes, exactly that. I was thinking that magnitudes of these calamities is the same everywhere but poorer countries are just not equipped to handle them",74,75,74,2,2,3,NULL
+125,12,85,5,"75","It sems that Haiti is a truly devastated country. Earthquakes, hurricanes. Worse off is the economic collapse they live thorugh. ",75,75,74,3,2,2,NULL
+126,12,85,6,"74","Some people really get the worst birth lottery",74,75,74,3,2,2,NULL
+127,12,85,7,"75","Also they never really recovered from their 2010 earthquake, it seems the destrusction from then lingers on. ",75,75,74,2,2,3,NULL
+128,12,85,8,"74","It is just so much harder when you are already poor and then you have to fight these natural disasters too. They really do need help",74,75,74,3,2,3,NULL
+129,12,85,9,"75","Do you think Americans in general would support any help to Haiti? ",75,75,74,1,1,2,NULL
+130,12,85,10,"74","I hope so. I know that people do care about those devastated by such disasters ",74,75,74,2,0,3,NULL
+131,12,85,11,"75","For example an aid package? I am not sure how peope would react. Seeing how people were so negative about aid to ukarine",75,75,74,2,1,2,NULL
+132,12,85,12,"74","Ukraine had a political angle to it where some people thought that it could have been avoided but you can't avoid a hurricane. Hopefully media provides more awareness to people about situation in Haiti",74,75,74,3,0,3,NULL
+133,12,85,13,"75","Maybe a ‘grass roots’ campaign? I remember years ago wealthy and influential people got together to aid the famine in Africa, that doesn’t seem to happy anymore. *im showing my age* lol ",75,75,74,2,0,2,NULL
+134,12,85,14,"74","Yeah, I remember those times, I think there is people doing it still but the scale is much smaller now. People seem to have stepped back and let the govts and aid agencies lead the relief efforts",74,75,74,2,1,2,NULL
+135,12,85,15,"75","And you are right, politics seem to be injected (no pun intended) into EVRYHTHING now. No real altruisim without ‘angles’ now. No help without an agenda. Truly sad. ",75,75,74,3,1,2,NULL
+136,12,85,16,"74","I do know that people struggling to put food on their table wouldn't care much about who is giving it and for what ulterior purpose.",74,75,74,3,1,2,NULL
+137,12,85,17,"75","Great point,    Also maybe a sense of fabricated victimhood, whenever help/aid to foreign countries is mentioned, too many people bring up issues here. For example ‘we have hunger here, ‘we struggle in america too’ and all those arguments. ",75,75,74,3,2,2,NULL
+138,12,85,18,"74","Well there is some truth to that too and I have seen more money getting invested inside US which could have gone to Africa e.g. in the past but I still hope that there is enough left for those people who are really desperate and have absolutely no other means to survive except aid",74,75,74,3,2,2,NULL
+139,12,85,19,"75","Yes, no hope for so many. Hard to imagine for people sometimes. Great talk, can I ask if you are a real person. Sorry I've talked to too many bots! :) ",75,75,74,2,2,2,NULL
+140,12,85,20,"74","lol. I am but it is getting really hard to tell bots apart these days.",74,75,74,2,1,2,NULL
+141,12,85,21,"75","ugh yes, but it's nice to connect with real people! you type fast!",75,75,74,3,0,3,NULL
+142,12,85,22,"74","Not that fast unfortunately, I am struggling myself with some age related issues",74,75,74,3,2,1,NULL
+143,12,85,23,"75","Im sorry! I hope you take time to care for yourself, i know sometimes we care for others first.",75,75,74,3,0,4,NULL
+144,12,85,24,"74","Well, I think this is how it should be, I am happy when people around me are happy and vice versa",74,75,74,2,0,3,NULL
+145,12,85,25,"75","yes, i love seeing my family happy, but i have to remind myself to care for me first so i can be strong enough to care for them :)",75,75,74,3,0,3,NULL
+146,12,85,26,"74","Agreed. It's just that sometimes there is no choice, you have to sacrifice some self interest so that others around you can thrive. It is not fair probably but it is what it is",74,75,74,3,0,2,NULL
+147,12,85,27,"75","yes i completely agree, we goota do what we gotta do!",75,75,74,3,0,3,NULL
+148,12,85,28,"74","anyhow, coming back to the story, I wish people in Haiti can pull through the hard times and would does provide them with the assistance they definitely need. There is just too much suffering going around today and anyone recovering does bring back some trust in humanity",74,75,74,3,2,4,NULL
+149,12,85,29,"75","Yes, I hope they could recover. Their political climate is awful though and it would be very difficult for the people to thrive.",75,75,74,2,2,3,NULL
+150,12,85,30,"74","Politicians are self serving almost everywhere but in third world, they really are terrible. ",74,75,74,3,2,2,NULL
+151,10,96,1,"95","Hello",95,95,96,1,1,1,NULL
+152,10,96,2,"96","Hi!",96,95,96,1,1,1,NULL
+153,10,96,3,"95","So the article was pretty sad.",95,95,96,3,2,3,NULL
+154,10,96,4,"96","Yeah, I agree, humans taking away the homes of endangered animals for work is super sad.",96,95,96,3,2,4,NULL
+155,10,96,5,"95","I really hope someone can step in because the government there has done a poor job protecting them.",95,95,96,3,2,3,NULL
+156,10,96,6,"96","I hope so as well. I'm surprised their lands are not more heavily protected due to them being so endangered.",96,95,96,3,2,3,NULL
+157,10,96,7,"95","It's hard to protect them when the local government puts money ahead of protecting them. It's hard for an outside group to step in.",95,95,96,3,2,2,NULL
+158,10,96,8,"96","Hopefully if people cause an uproar about it it'll be stopped. But, unfortunately, probably not.",96,95,96,3,2,2,NULL
+159,10,96,9,"95","I think the only way is to give their government money not to destroy their habitat but then you would have to just permanently send them money because it wont go away.",95,95,96,3,2,2,NULL
+160,10,96,10,"96","Yeah, or another company would have to buy it for more and have better plans for it. I'm surprised wildlife conservationists haven't bought essential lands like that. I know they own some where the rescues are.",96,95,96,3,1,3,NULL
+161,10,96,11,"95","I bet they're looking into it since it sounds like a pretty big deal.",95,95,96,3,1,3,NULL
+162,10,96,12,"96","I hate the fact so many people value money over the welfare of the overall planet and animals. It's so sad.",96,95,96,3,2,4,NULL
+163,10,96,13,"95","Yeah, I don't buy food with palm oil in it anymore for this reason unless it's sustainably sourced. I know that won't stop the issue but at least I can not contribute.",95,95,96,3,2,3,NULL
+164,10,96,14,"96","I have truly not even heard of palm oil being linked to this or I haven't paid enough attention but I definitely will now. It won't stop it but enough people choosing not to buy it does impact them atleast.",96,95,96,3,2,3,NULL
+165,10,96,15,"95","I'm vegan so I think I just hear more about some of these things from the people I follow on social media. I just want to do whatever I can and hopefully others do the same and then that's how change happens.",95,95,96,2,1,3,NULL
+166,10,96,16,"96","Yeah, you're right. That way of thinking is what makes change happen, so that's great. I will definitely look more into it after this.",96,95,96,3,0,3,NULL
+167,10,96,17,"95","Awesome! I'm going to read up on this issue too and see if anyone is trying to help.",95,95,96,3,0,3,NULL
+168,10,96,18,"96","This kind of reminds me of the show Orangutan Island on Animal Planet a while back, if you've ever seen that. I don't remember the reason why their lands were getting destroyed specifically but it was a similar issue I believe.",96,95,96,2,2,3,NULL
+169,10,96,19,"95","Interesting, I'll have to check that out.",95,95,96,2,1,2,NULL
+170,10,96,20,"96","It was a cute show but I love animal shows. Just hopefully we stop ruining the natural habitat of so many animals because it's a widespread problem and not enough attention is called to it.",96,95,96,3,0,3,NULL
+171,10,96,21,"95","Yeah, you hate to see that kind of careless behavior. Especially when it's their own government allowing it happen.",95,95,96,3,2,3,NULL
+172,10,96,22,"96","Yep, I guess people do call attention to things, just the governments don't quite respond to the will of the people as much as they should. For example, the whole Willow Project ordeal that's happening.",96,95,96,2,2,3,NULL
+173,10,96,23,"95","Yeah, in general, money wins when it's either animals or the environment up against it.",95,95,96,2,2,2,NULL
+174,10,96,24,"96","It sucks. I hope that changes in the future as climate change and animals start demanding it",96,95,96,3,2,3,NULL
+175,10,96,25,"95","I think it's slowly changing but it may be too late.",95,95,96,2,2,3,NULL
+176,10,96,26,"96","Yeah, we have done a number on the planet and are not reacting quickly enough.",96,95,96,2,2,3,NULL
+177,10,96,27,"95","Yeah, the least we can do now is start trying to fix the damage we've done.",95,95,96,2,1,3,NULL
+178,10,96,28,"96","I agree, I really hope it gets better. The future generations are in for some issues otherwise",96,95,96,3,0,3,NULL
+179,10,96,29,"95","It was nice talking to you, have a nice day!",95,95,96,3,0,1,NULL
+180,10,96,30,"96","It was nice talking to you too!",96,95,96,3,0,1,NULL
+181,10,98,1,"97","Hello",97,97,98,1,1,1,NULL
+182,10,98,2,"98","hello",98,97,98,1,1,1,NULL
+183,10,98,3,"97","My reactions to the article was that there is work to be done. You?",97,97,98,2,1,2,NULL
+184,10,98,4,"98","i feel serious intervention is needed",98,97,98,3,2,3,NULL
+185,10,98,5,"97","That was way too many fires that took place in 2015.",97,97,98,2,2,2,NULL
+186,10,98,6,"98","unfortunately and now they are clearing the same forest",98,97,98,2,2,2,NULL
+187,10,98,7,"97","illegal logging is also a issue",97,97,98,2,2,2,NULL
+188,10,98,8,"98","I wish the article would give numbers on how the company will benefit the local people",98,97,98,1,1,1,NULL
+189,10,98,9,"97","I totally agree because there are conflicting opinions.",97,97,98,2,1,1,NULL
+190,10,98,10,"98","Kind of confusing. Maybe the community benefits more from the company. If so, then they should also priotize the orangutuns ",98,97,98,2,1,2,NULL
+191,10,98,11,"97","Yes I was just about to mention that.  It is said to be the third largest population of critically Endangered orangutans in the province.  That's terrible and scary.",97,97,98,3,2,4,NULL
+192,10,98,12,"98","I believe it is very important they look into the well being of the animals not just the economic side of the palm plantation since it underscores the all purpose of that forest",98,97,98,3,2,3,NULL
+193,10,98,13,"97","I agree the article also said something about if the conversion plans go ahead 500 to 1,000 of them will likely die or need to be rescued. Don't know if that's a good or bad thing.",97,97,98,3,2,1,NULL
+194,10,98,14,"98","that's a bad thing because they estimate their population is 750-1750. ",98,97,98,2,2,2,NULL
+195,10,98,15,"97","Wow, that's crazy!",97,97,98,4,2,2,NULL
+196,10,98,16,"98","these are animals that you can just replace ",98,97,98,1,2,1,NULL
+197,10,98,17,"97","Yes, I would hate for someone to get hurt because they did state they are endangered.",97,97,98,3,2,3,NULL
+198,10,98,18,"98","palm oil is good, but must the plantation be there, can't they find alternatives",98,97,98,3,2,2,NULL
+199,10,98,19,"97","I feel that they should try to come up with a different plan and soon.  ",97,97,98,2,2,2,NULL
+200,10,98,20,"98","sure. Their Government needs to be part of the solution and not the problem",98,97,98,3,1,2,NULL
+201,10,98,21,"97","I don't feel that the Government ever does enough.",97,97,98,2,2,2,NULL
+202,10,98,22,"98","All governments are the same. Talk big, do less",98,97,98,3,2,2,NULL
+203,10,98,23,"97","My thoughts, exactly.",97,97,98,2,2,1,NULL
+204,10,98,24,"98","we can only hope for the best",98,97,98,2,0,2,NULL
+205,10,98,25,"97","That's true because it definitely can't keep going the way it currently is.",97,97,98,3,1,2,NULL
+206,10,98,26,"98","it may go the Amazon forest way",98,97,98,2,2,1,NULL
+207,10,98,27,"97","Yes that's true",97,97,98,1,1,1,NULL
+208,10,98,28,"98","very unfortunate",98,97,98,3,2,3,NULL
+209,10,98,29,"97","And very sad",97,97,98,3,2,2,NULL
+210,10,98,30,"98","it was nice chatting with you",98,97,98,2,0,1,NULL
+211,13,99,1,"39","Hey there!",39,39,99,1,1,1,NULL
+212,13,99,2,"99","Hey there!  How are you?",99,39,99,1,1,1,NULL
+213,13,99,3,"39","I'm good, how about yourself?",39,39,99,2,1,1,NULL
+214,13,99,4,"99","I'm good myself ty",99,39,99,2,1,1,NULL
+215,13,99,5,"39","Good! My first reaction to the article was honestly a little surprised? I didn't know any organization was trying to protect wolves, so that was interesting to me",39,39,99,2,0,2,NULL
+216,13,99,6,"99","Yes the article was super interesting.  I felt really bad for the wolf and am troubled by the senseless taking of a life.",99,39,99,2,2,4,NULL
+217,13,99,7,"39","Yeah, I guess I agree with that too. I mean I hate killing of anything alive-including plants and insects. But I will say I feel like the article kind of made it seem like this was a person that was killed-and not a wild animal.",39,39,99,2,2,2,NULL
+218,13,99,8,"99","I think it clearly referred to the killing of a wolf not a person.  The wolf was collared by that Activist group so was off limits to any hunting. ",99,39,99,2,2,2,NULL
+219,13,99,9,"39","Yeah I mean it was clear, it just made it seem more important than I imagined it to be? I would expect more detail on why this wolf was important and/or not a threat and/or endangered. Instead it just said it was senseless without any great context I feel like.",39,39,99,2,2,2,NULL
+220,13,99,10,"99","That's true.",99,39,99,1,1,2,NULL
+221,13,99,11,"39","But I mean, I still felt sad for the wolf, especially if it was killed without provocation. I don't understand why people like to just kill wild animals so much.",39,39,99,3,2,3,NULL
+222,13,99,12,"99","I know.  I feel the same way.  It didn't mention provocation, so I feel it was just a senseless taking of his life.",99,39,99,1,2,3,NULL
+223,13,99,13,"39","Yeah I wouldn't be surprised by that. I am interested too into what kind of research and goals that organization has too. I also wonder if that poor wolf ever had a mate before, it's sad :(",39,39,99,3,2,3,NULL
+224,13,99,14,"99","It is really sad.  Like you said about why people like to hunt wildlife so much?  I think it",99,39,99,3,2,3,NULL
+225,13,99,15,"39","I wonder if they are going to investigate to find who killed the wolf?",39,39,99,2,1,2,NULL
+226,13,99,16,"99","I think they said something about that.  I don't know if they can catch the person who did this but it does bring awareness to these types of things.",99,39,99,2,1,3,NULL
+227,13,99,17,"39","Yeah that's a good point",39,39,99,2,1,2,NULL
+228,13,99,18,"99","Thank goodness for that group looking out for wolves, right?",99,39,99,3,0,4,NULL
+229,13,99,19,"39","I mean I guess, I don't know I'm still not convinced that wolves are out number one priority. It's just new information to me that we should care about them?",39,39,99,2,2,2,NULL
+230,13,99,20,"99","Maybe not our number one priority, but I think there is definitely room on the agenda. (:  I guess I have never given a lot of thought to wolves, but then again I didn't necessarily know that they were hunted. ",99,39,99,2,0,3,NULL
+231,13,99,21,"39","Yeah, see, totally same! I'm interested and maybe a little surprised. But definitely sad to hear of a senseless killing.",39,39,99,2,2,3,NULL
+232,13,99,22,"99","Absolutely!",99,39,99,3,1,3,NULL
+233,13,99,23,"39","I wonder if they will take this opportunity to try and change their methods, too. Like maybe they will make their collars more obvious or put more signage along normal travel routes for the wolves or something",39,39,99,2,0,2,NULL
+234,13,99,24,"99","Those are both great ideas.  The part about the signage I hadn't thought of.",99,39,99,1,0,2,NULL
+235,13,99,25,"39","Yeah, did you feel any particular way when you first read the article?",39,39,99,1,1,2,NULL
+236,13,99,26,"99","Yes.  Surprised and then very sad.  Also gave me a new perspective on wolves.  How about you?",99,39,99,3,2,3,NULL
+237,13,99,27,"39","Yeah I would agree, a bit sad, but surprised and interested. Curious to learn more, too.",39,39,99,3,2,2,NULL
+238,13,99,28,"99","Yes would love to hear more. What this group does, what states they are in.  Things like that.",99,39,99,2,1,3,NULL
+239,13,99,29,"39","Yeah exactly, I am curious about what they do and what they protect. I might google them in a bit!",39,39,99,3,0,2,NULL
+240,13,99,30,"99","Yes.  I hope for the best for them.  It has been a real pleasure chatting with you and sharing our thoughts and feelings about this.",99,39,99,2,0,3,NULL
+241,13,101,1,"67","Hello",67,67,56,1,1,1,NULL
+242,13,101,2,"56","Hi, how are you!  So glad to be matched!",56,67,56,4,0,1,NULL
+243,13,101,3,"67","You sound excited :D Doing good, how are you?",67,67,56,2,0,1,NULL
+244,13,101,4,"56","I have tried a few of these HITs and this is the first that seems to be going correctly, yea!",56,67,56,4,0,1,NULL
+245,13,101,5,"67","ah i see. Yes I tried one earlier and it just says \"Initializing\" forever. I submitted the HIT regardless although I wasn't connected to anyone after 20 minutes",67,67,56,2,1,1,NULL
+246,13,101,6,"56","Me too, I think I was paid.  Anyway this is a shorter article.  It was news to me about this agency and their work, had you heard of them before?",56,67,56,2,1,1,NULL
+247,13,101,7,"67","I have not heard of it before. I also have no heard of \"government snipers\"",67,67,56,2,1,1,NULL
+248,13,101,8,"56","Right that comment or call out really did not align with trigger happy exterminators to me",56,67,56,2,1,1,NULL
+249,13,101,9,"67","I wasn't sure who actually gunned the wolves down. Was it done for fun or some specific purpose? If it was done for fun, that was really cruel",67,67,56,3,2,3,NULL
+250,13,101,10,"56","I agree.  Sounds like they are catching, and putting trackers on these animals then letting them do their thing.  If doing their thing may mean attacking I can see why some may want to eliminate them as predators",56,67,56,2,2,1,NULL
+251,13,101,11,"67","I can see that. If the wolves are attacking children, pets etc, I probably would do something about it either. It really depends on the context. In this case, I am not really able to judge appropriately. But I am saddened by the killing definitely.",67,67,56,2,2,3,NULL
+252,13,101,12,"56","Yes, I just looked up the center for bio diversity, it is relatively small but has doubled in size over the past several years",56,67,56,2,1,1,NULL
+253,13,101,13,"67","Is it located in the west? ",67,67,56,1,1,1,NULL
+254,13,101,14,"56","It is based out of Arizona",56,67,56,1,1,1,NULL
+255,13,101,15,"67","That makes sense. Now that I think of it, I don't think I've seen wolves out where I am. I'm in the northeast ",67,67,56,2,1,1,NULL
+256,13,101,16,"56","oh actually this is interesting, there is a map of wolf packs when I search the Huckleberry pack: https://pacificwolffamily.org/thehuckleberrypack/",56,67,56,2,0,1,NULL
+257,13,101,17,"67","I thought they always travel in pack but the article says that they leave their pack in search of new territories",67,67,56,2,1,1,NULL
+258,13,101,18,"56","Yes and I just assumed the pack was big, this one was only 7 members and I believe the local authorties killed it after killing sheep.  ",56,67,56,2,1,1,NULL
+259,13,101,19,"67","So the news is real?",67,67,56,2,1,2,NULL
+260,13,101,20,"56","I think so at least it is documented elsewhere.  It also sounded like this was the lead female, I also assumed male but maybe females lead wolf packs due to breeding",56,67,56,2,1,1,NULL
+261,13,101,21,"67","\"A young male wolf was tragically gunned down by a government sniper\"--it says male here",67,67,56,1,1,1,NULL
+262,13,101,22,"56","Huh that does not align with what I was reading else where",56,67,56,2,1,1,NULL
+263,13,101,23,"67","Maybe that was another wolf. Feel conflicted about this though, if the wolves are out there killing sheep, and if those were my sheep, I would probably want the authority to do something about it",67,67,56,3,1,2,NULL
+264,13,101,24,"56","I agree fences can only do so much.  If we really want to save them maybe they should be in reserve somewhere",56,67,56,2,1,3,NULL
+265,13,101,25,"67","Yes, I wonder how many Huckleberry pack wolves are gunned down per year. If they are at the brink of extinction, I think we should do way more than just putting a collar on them and tracking them",67,67,56,3,2,3,NULL
+266,13,101,26,"56","right and that goes back to the pack size, I don't know if certain packs are unique breeds or just a unique pack and how big it may have once been",56,67,56,2,1,2,NULL
+267,13,101,27,"67","Maybe the Center for bio diversity should set up a help line or something for people to call them when the wolves are causing \"trouble\" ",67,67,56,2,1,2,NULL
+268,13,101,28,"56","that would be a good idea, I was thinking these wolves need to be marked more than electronically - like visually, I know fur sheds but some type of florescent marker, like collar",56,67,56,2,0,2,NULL
+269,13,101,29,"67","Like an ear tag",67,67,56,1,0,2,NULL
+270,13,101,30,"56","that would be a good idea, I was thinking these wolves need to be marked more than electronically - like visually, I know fur sheds but some type of florescent marker, like collar",56,67,56,2,0,2,NULL
+271,13,102,1,"64","Hi there, what was your first reaction overall from reading?",64,64,49,0,1,1,NULL
+272,13,102,2,"49","light on facts, too emotional",49,64,49,2,2,1,NULL
+273,13,102,3,"64","How did you feel about it being a story about a wolf instead of a person, did that matter to you?",64,64,49,1,1,1,NULL
+274,13,102,4,"49","obviously that would be drastically different",49,64,49,3,1,1,NULL
+275,13,102,5,"64","What was your first reaction when you learned the wolf got shot?",64,64,49,1,1,1,NULL
+276,13,102,6,"49","i didn't know what to feel because i don't understand the reasons",49,64,49,1,1,1,NULL
+277,13,102,7,"64","What emotions did you go through thinking about the wolf dying?",64,64,49,1,1,1,NULL
+278,13,102,8,"49","confusion mainly",49,64,49,2,1,1,NULL
+279,13,102,9,"64","What about the government sniper, how do you feel about him?",64,64,49,1,1,1,NULL
+280,13,102,10,"49","a hell of a job title, doing his job i guess",49,64,49,2,1,1,NULL
+281,13,102,11,"64","Did you think there could have been a better way for them to present the information about the wolves brutal deaths?",64,64,49,1,1,2,NULL
+282,13,102,12,"49","sure they never explained the motivation",49,64,49,1,1,1,NULL
+283,13,102,13,"64","I agree, I was wondering what could of driven that, did you think about anything other than the wolf?",64,64,49,2,1,1,NULL
+284,13,102,14,"49","no not really",49,64,49,1,1,1,NULL
+285,13,102,15,"64","Did you have strong emotions or light emotions?",64,64,49,1,1,1,NULL
+286,13,102,16,"49","light emotions because lack of detail",49,64,49,2,1,1,NULL
+287,13,102,17,"64","What about overall, how did you feel about it concluding everything, do you think it generic story?",64,64,49,1,1,1,NULL
+288,13,102,18,"49","it was strange",49,64,49,2,2,1,NULL
+289,13,102,19,"64","Do you think the scientists can actually do anything to stop the violence they mentioned?",64,64,49,1,1,2,NULL
+290,13,102,20,"49","there has to be an official policy",49,64,49,2,1,1,NULL
+291,13,102,21,"64","What about the activists, how do you feel about them overall?",64,64,49,1,1,1,NULL
+292,13,102,22,"49","heart's in the right place",49,64,49,2,0,2,NULL
+293,13,102,23,"64","Yeah I also feel that way, I do doubt their impact though. Do you think they have a small chance or large chance at succeeding?",64,64,49,2,1,2,NULL
+294,13,102,24,"49","against the government? small chance",49,64,49,2,2,1,NULL
+295,13,102,25,"64","Yeah, the courts specifically. Do you think the courts would even give them a fair chance at holding others accountable?",64,64,49,1,1,2,NULL
+296,13,102,26,"49","if a law was broken then they have standing",49,64,49,2,1,2,NULL
+297,13,102,27,"64","That may be true. Did you learn anything new from the story at all?",64,64,49,1,1,1,NULL
+298,13,102,28,"49","yeah it's strange when keeping a wolf alive counts as \"conservation\", but all the things the wolf killed... don't matter?",49,64,49,2,2,1,NULL
+299,13,102,29,"64","Maybe so, I'm not sure I have another way to look at it. I didn't have many thoughts about the story. Do you think it was a good story?",64,64,49,1,1,1,NULL
+300,13,102,30,"49","no because there is a large lack of details",49,64,49,2,1,1,NULL
+301,13,105,1,"102","Hello",102,102,33,1,1,1,NULL
+302,13,105,2,"33","Hi, you read the article?",33,102,33,1,1,1,NULL
+303,13,105,3,"102","I did yes, about the wolf?",102,102,33,1,1,1,NULL
+304,13,105,4,"33","yup",33,102,33,1,1,1,NULL
+305,13,105,5,"102","It did not really bother me.  I am fairly certain the wolf population is pretty strong.",102,102,33,1,0,1,NULL
+306,13,105,6,"33","Yeah. What I couldn't figure was: What is the story with the \"government sniper\" ?",33,102,33,2,1,1,NULL
+307,13,105,7,"102","Sounded like the person who wrote it was anti-hunting and took offense.  I am guessing they were culling the herd to protect farm animals or something.   Maybe it was attacking endangered species.",102,102,33,2,1,1,NULL
+308,13,105,8,"33","Apparently he was doing target practice",33,102,33,2,1,1,NULL
+309,13,105,9,"102","Did you look it up?",102,102,33,1,1,1,NULL
+310,13,105,10,"33","no, but, There's very little info in this article to go by.",33,102,33,1,1,1,NULL
+311,13,105,11,"102","Without some kind of information that says it was illegal I have no issue with it.",102,102,33,2,1,1,NULL
+312,13,105,12,"33","I was kind of joking about \"target practice\"",33,102,33,2,1,1,NULL
+313,13,105,13,"102","I don't hunt though, never saw the fun in it.",102,102,33,1,1,1,NULL
+314,13,105,14,"33","It has been said that there are animals such as the dire wolf that are approaching extinction.",33,102,33,2,2,2,NULL
+315,13,105,15,"102","That would be a different story for me.",102,102,33,2,1,2,NULL
+316,13,105,16,"33","Yup. I don't know. If it need to be killed, that's one thing.",33,102,33,2,1,1,NULL
+317,13,105,17,"102","The author should have added real details",102,102,33,2,1,1,NULL
+318,13,105,18,"33","I feel perhaps just as bad for the research team whose data the sniper destroyed.",33,102,33,2,2,1,NULL
+319,13,105,19,"102","I wonder what the researchers think about it.",102,102,33,2,1,1,NULL
+320,13,105,20,"33","it says that they go to court and fight for this sort of thing. Which is admirable, I guess.",33,102,33,2,0,1,NULL
+321,13,105,21,"102","I think that there are better things to fight for.",102,102,33,2,2,1,NULL
+322,13,105,22,"33","The HIT says to express \"feelings\", but this is hardly a capital crime",33,102,33,2,1,1,NULL
+323,13,105,23,"102","Right, it's hard for me to give much of myself to it.",102,102,33,2,1,1,NULL
+324,13,105,24,"33","Not to overstate things, but I still wonder what capacity was the \"sniper\"",33,102,33,2,1,1,NULL
+325,13,105,25,"102","The only other mention was \"exterminators\"",102,102,33,1,1,1,NULL
+326,13,105,26,"33","Yeah, that's right!",33,102,33,2,1,1,NULL
+327,13,105,27,"102","I think it was just too slanted of an article",102,102,33,2,2,1,NULL
+328,13,105,28,"33","I would say so. If that (the sniper) could have been expounded on, I may have more to relate.",33,102,33,2,1,1,NULL
+329,13,105,29,"102","Yeah, there has to be something of substance before I could put a lot of care into it.",102,102,33,2,1,1,NULL
+330,13,105,30,"33","700 miles is a long ride",33,102,33,2,1,2,NULL
+331,13,107,1,"104","Hi!",104,104,105,0,0.5,1,NULL
+332,13,107,2,"105","Hello!",105,104,105,0,0.5,1,NULL
+333,13,107,3,"104","What was your first impression about the wolves article?",104,104,105,1,1,1,NULL
+334,13,107,4,"105","Ugh. It kind of broke my heart to think about that young wolf working so hard to explore and try to find a pack/mate, only to be gunned down. :/ How about you?",105,104,105,4,2,4,NULL
+335,13,107,5,"104","I understand. My first impression is that it will be difficult to prevent people from fighting back when they see a wolf hanging around. Although it's kind of sad, yes.",104,104,105,2,1.5,2,NULL
+336,13,107,6,"105","Yeah, I can understand that they can be dangerous. I think they mostly attack livestock though, which I know farmers have a problem with too!",105,104,105,3,1,2,NULL
+337,13,107,7,"104","I guess it's normal to feel sorry for the wolf but it's hard to tell what's right in that situation since the first thing that comes to mind is that it's dangerous.",104,104,105,2,1,3,NULL
+338,13,107,8,"105","One thought that comes to mind is that maybe there needs to be a better thought out/coordinated plan. For example I'm sure the org that raised/protected the wolves must have known they would wander hundreds of miles, and likely into other states, right?",105,104,105,1,1,2,NULL
+339,13,107,9,"104","If something is not well planned. They must take these situations into account and prevent them.",104,104,105,1,1,2,NULL
+340,13,107,10,"105","Yes for sure. Like they could have coordinated in advance with the gov agencies in adjacent states to see if they would agree in advance to shoot the wolf with a tranquilizer gun instead or something, and transport it to a place like a wildnerness zone way up in the mountains or something. ",105,104,105,2,1,3,NULL
+341,13,107,11,"104","It is difficult, perhaps if they do that the wolf will be disoriented and lost and will not be able to return to the pack. Although that's better than just being killed.",104,104,105,3,1,4,NULL
+342,13,107,12,"105","Yes, for sure. I don't know about wolves and relocation, but whatever their plan was seems a bit shortsighted maybe. I know there was a similar story in California and a wolf traveled all the way down the cascades and then sierras, only to be hit by a car on the freeway in Southern California. Ugh.",105,104,105,3,2,4,NULL
+343,13,107,13,"104","Well, it's complicated but there must be ways to prevent it. Maybe have them monitored and somehow prevent them from reaching certain places and zones.",104,104,105,1,1,2,NULL
+344,13,107,14,"105","Yes, good idea. I had thought there are so few they are all monitored, but maybe not!",105,104,105,2,0,2,NULL
+345,13,107,15,"104","They should give more importance to these issues and make them more public",104,104,105,2,1,2,NULL
+346,13,107,16,"105","Yes I agree. And I have mixed feelings because I know the elimination of apex predators can have a domino effect on the environment, but at the same time, we don't live in wilderness with no fences any more, and a lot of the big predators have huge ranges. So I'm not sure what the right solution is!",105,104,105,2,1,2,NULL
+347,13,107,17,"104","Could you tell me more about that domino effect you speak of?",104,104,105,1,1,1,NULL
+348,13,107,18,"105","Well I read an article once about the effect of no wolves on the environment in Yellowstone, and from what I understand the lack of wolves caused a proliferation of deer, which stripped the bark from the trees, which led to other consequences, and the whole biome kind of got out of whack. Apparently since the reintroduction of wolves, it has righted itself!",105,104,105,2,0,2,NULL
+349,13,107,19,"104","how interesting. I would like to learn more about these effects of the lack of certain predators",104,104,105,1,0.5,2,NULL
+350,13,107,20,"105","There might be a Netflix documentary on it? It was really interesting and I had no idea until I came across it. But I also know Yellowstone is unlike most places in the US, but I'm glad we are able to keep some places \"wild\" still.",105,104,105,2,0,1,NULL
+351,13,107,21,"104","I'll take some time to watch those documentaries. It's good to know about those things.",104,104,105,2,0,1,NULL
+352,13,107,22,"105","Yes, I agree. Somewhat sad, but better to know than to not know! ...Alaska still seems pretty wild too, so hopefully we can keep it that way. *fingers crossed*",105,104,105,2,0,2,NULL
+353,13,107,23,"104","I love alaska and shows about self-sufficient people who live there. Returning to the subject of wolves, what would the wolf do if it found another territory to call its pack?",104,104,105,2,0.5,1,NULL
+354,13,107,24,"105","I think it would have babies and start its own pack, no? But that is also a bit sad because like the one who showed up in SoCal, he would have never run into any other wolves and would have wandered forever in search I think. Poor guy!",105,104,105,3,2,2,NULL
+355,13,107,25,"104","How would he have babies if he is alone. He would need a female, right?",104,104,105,2,1,1,NULL
+356,13,107,26,"105","Yes, exactly. So I think the organizations usually start a pack or two up in certain places, but I have no idea what their plan is after that...",105,104,105,1,1,1,NULL
+357,13,107,27,"104","Well, I think tonight I will see some videos of wolves",104,104,105,0,1,1,NULL
+358,13,107,28,"105","I think I might too! I'll see what other content is out there and remind myself of the Yellowstone saga. It was pretty cool and I remember being quite moved by it.",105,104,105,3,0,1,NULL
+359,13,107,29,"104","I will also look into that case in Yellowstone.",104,104,105,1,1,1,NULL
+360,13,107,30,"105","I hope you enjoy and it was very nice talking with you!",105,104,105,3,0,1,NULL
+361,14,108,1,"69","Hello",69,69,60,1,1,2.5,NULL
+362,14,108,2,"60","Hi.  How did the article make you feel?  I felt sad for the victim and their family, but also confused about what motivated this murder.",60,69,60,3,2,3,NULL
+363,14,108,3,"69","I felt sad for the victim and family as well. I was confused as well. I figured that the gunman had something against Michael. I wish there some more details included.",69,69,60,3,2,3,NULL
+364,14,108,4,"60","Yes, I thought it was quite curious, perhaps even conspicuous, that there was basically no description of the murderer at all.  It makes me wonder what's being hidden.  At least they're dead.",60,69,60,3,2,2,NULL
+365,14,108,5,"69","True. I also wonder how he was able to get a gun into the airport. Or perhaps it was in a public area? I think the article mentioned it was somewhat close to the employee parking.",69,69,60,3,1,2,NULL
+366,14,108,6,"60","Yes, I think it was in the parking area, although I also think there are ways around airport security, unfortunately.  I thought the sadest thing was learning of the victim's children.  Obviously most 52-year-olds have children, but to have it explicitly stated makes it strike home that those adult children just lost their dad.",60,69,60,4,2,3,NULL
+367,14,108,7,"69","Yeah, I couldn't imagine losing my father suddenly like this. It is cool that his children are athletes as well though. I'm sure he was really proud of their success.",69,69,60,4,2,1.5,NULL
+368,14,108,8,"60","Yes, I'm sure.  And I'm sure they were proud of him.  But I imagine that makes the loss even harder.",60,69,60,4,2,2,NULL
+369,14,108,9,"69","Yeah. Do you think the airport handled this appropriately? Diverting almost all flights and stranding those inside the terminal for hours?",69,69,60,1,1,1.5,NULL
+370,14,108,10,"60","It's a tough decision. I don't think they handled it correctly, frankly.  But I'm also not surprised.  When something bad happens at an airport they usually shut things down.  But it's a good question.  I'm really not sure.  What are your feelings on the airport's response?",60,69,60,2,1,2,NULL
+371,14,108,11,"69","I think its better to be safe then sorry. I suppose they probably thought the gunman was running around the airport at first before they found him in the truck. I just wonder why it took so long. ",69,69,60,2,2,1,NULL
+372,14,108,12,"60","Yeah, I'm not sure.  I know I'd be furious if I were in that situation and my flight was canceled.  To a large degree I think we punish the masses for the sake of the few far too often in this society.  But that's another issue.",60,69,60,2,2,1,NULL
+373,14,108,13,"69","I would be too, especially if it was an important trip. I'd also agree with your point. I wonder why the police also received reports of a second victim. That probably contributed to things being shut down. ",69,69,60,2,2,1,NULL
+374,14,108,14,"60","Yes, for sure.  I'm sure when things like this happen there are rumors flying all over the place.  People get information wrong, pass on information incorrectly, imagine things.  People aren't good witnesses.  So I'm sure in an instance like this--in all that chaos--there's all sorts of incorrect information or speculation and that uncertainty is one of the reasons why the whole airport can get shut down.",60,69,60,2,2,1.5,NULL
+375,14,108,15,"69","Yeah I suppose when there are lots of people in one place like this, when things go down it would be a bit crazy. Information may come in, but it has to be verified by looking at the footage, searching the airport, etc. Do you think anything could have been done to prevent the attack, or was it just something no one could have anticipated?",69,69,60,2,1,2,NULL
+376,14,108,16,"60","It's hard to say without more evidence of what actually motivated it.  I think the reality is that if one deranged person wants to kill you, there's not a lot you can do to stop it.  That's just life, and we shouldn't turn the world upside down to stop things we can't stop.",60,69,60,2,2,2,NULL
+377,14,108,17,"69","Yeah, once again I wish there was some more information here. I would have really liked to know what happened between the two. I also want to know if the gunman previously had issues or anything. I also wonder if Michael knew the gunman was after him. I'd agree, we can't put so much security and limitations in place that it impacts our lives to a major degree. It would be a pain to live that way.",69,69,60,2,2,3,NULL
+378,14,108,18,"60","Yes, it's a curious story.  I'd say that by definition the killer had issues to do this.  But again, it's totally unclear what precipitated this.",60,69,60,2,1,1,NULL
+379,14,108,19,"69","I do wonder if the gunman used to work with the victim. Without some serious stalking I'd say that's the only way he knew their schedule/routine.",69,69,60,1,2,2,NULL
+380,14,108,20,"60","Yes, that's certainly possible.  It's amazing to think a workplace conflict could lead to murder, but something did.  I thought it was conspicous that no details were given about the identity of the killer.  That usually means they're black.",60,69,60,2,2,2,NULL
+381,14,108,21,"69","I've certainly worked with some people that were a little off. I've always tried to avoid any conflict with people like that. The media/police do tend to hide identity when its someone who isn't white, I wish that trend would stop. People of all kind commit crime.",69,69,60,2,2,3,NULL
+382,14,108,22,"60","Yes, the media is just propaganda now.  It's hardly worth paying attention to.  There's lots more to be said about media in gernal but it's not really germane to this story.  If you were one of the victim's family members, would you rather not know the motivation for your father's killing?  Or would you rather find out it was something bad, like he was having a homosexual affiar or something disgusting?",60,69,60,2,2,2,NULL
+383,14,108,23,"69","Its hard to media that just sticks to the facts, and the stuff relevant to the story. Plus stuff that is truly unbiased. I'm really not sure what I'd want to learn. I wouldn't want to learn that my father was involved in anything bad, but would at least want to know some of the motivation behind the attack.",69,69,60,2,1,3,NULL
+384,14,108,24,"60","Yes, I think I agree with that.  Either way it's very sad for his family.  I wonder how the family of the murderer feels.  They must have mixed, strange emotions.",60,69,60,3,2,4,NULL
+385,14,108,25,"69","If I was the family of the murdered I would feel really ashamed, unless somehow they felt going after Michael was warranted somehow. I guess it all depends, without the information its hard to make a full judgement.",69,69,60,3,2,3,NULL
+386,14,108,26,"60","Yeah, I wouldn't be happen with what he did.  But he's also dead.  They also lost a loved one.  That's why I say it would be mixed emotions.",60,69,60,2,2,3,NULL
+387,14,108,27,"69","Yeah. Well it looks like we are coming to our final messages. Its been good talking with you. I'm glad you feel the same way about the article.",69,69,60,2,0,3,NULL
+388,14,108,28,"60","Yes, thanks for chatting.  It's been good.",60,69,60,2,0,2,NULL
+389,14,108,29,"69","Yeah, thank you, so long.",69,69,60,2,0,4,NULL
+390,14,108,30,"60","Goodbye. Take care.  I hope you don't experience anything like this story.",60,69,60,2,0,3,NULL
+391,14,109,1,"67","Hi, how are you?",67,67,102,1,1,0,NULL
+392,14,109,2,"102","I'm well thanks, how about you?",102,67,102,2,0,0,NULL
+393,14,109,3,"67","Doing good, thanks! So, what do you think about the article?",67,67,102,2,0,0,NULL
+394,14,109,4,"102","It was pretty sad.  It's unfortunate to lose a loved one in such a violent and unexpected way.",102,67,102,3,2,4,NULL
+395,14,109,5,"67","I feel the same way. I also feel saddened by the event. An attack on another human being shouldn't have happened in the first place",67,67,102,3,2,3.5,NULL
+396,14,109,6,"102","Agreed.  What was solved, really?  What did the attacker get out of it?",102,67,102,2,2,4,NULL
+397,14,109,7,"67","Revenge or to make themselves feel better. But that was not an excuse at all, they are evil! ",67,67,102,4,2,4,NULL
+398,14,109,8,"102","And whatever positive emotions they did feel didn't last long considering they committed suicide.",102,67,102,3,2,3.5,NULL
+399,14,109,9,"67","What's worse is the family who was left behind. I can't' imagine how I'd feel if I was them",67,67,102,3,2,5,NULL
+400,14,109,10,"102","Both families are probably wrecked.  ",102,67,102,3,2,4.5,NULL
+401,14,109,11,"67","Such a mess as well. Hundreds of people were stranded in the airport",67,67,102,2,2,3.5,NULL
+402,14,109,12,"102","Its too bad the attacker was so unhinged.  I wonder what caused it?",102,67,102,3,2,3,NULL
+403,14,109,13,"67","Do you think this was a real crime? Maybe can find that out online",67,67,102,2,1,2.5,NULL
+404,14,109,14,"102","I suppose we can Google the victim's name.  It was in the story, Michael Winchester",102,67,102,2,1,2.5,NULL
+405,14,109,15,"67","Oh I think it's a true story",67,67,102,2,1,3,NULL
+406,14,109,16,"102","Yeah, looks like it was revenge due to losing his job",102,67,102,2,1,2,NULL
+407,14,109,17,"67","dang, that was such a stupid reason",67,67,102,3,2,2.5,NULL
+408,14,109,18,"102","Yeah, it was just a job.  Find something else and move on.",102,67,102,2,2,3,NULL
+409,14,109,19,"67","To be honest, in some way I am glad that the gunman died, but in another perspective, I think more effort should be put into mental health care and support",67,67,102,3,1,3,NULL
+410,14,109,20,"102","For sure, this was something he could have dealt with constructively rather than what he chose",102,67,102,2,1,3,NULL
+411,14,109,21,"67","Maybe the company should provide some kind of help as well when they are firing people",67,67,102,2,1,2.5,NULL
+412,14,109,22,"102","He was terminated for drinking on the job.  Sounds like he was battling alcoholism.",102,67,102,2,1,2.5,NULL
+413,14,109,23,"67","oh I see. I didn't see that part. Thanks for the context. This guy had so many issues!",67,67,102,3,2,2.5,NULL
+414,14,109,24,"102","Things just kept piling up in his mind, I suppose.",102,67,102,2,1,2,NULL
+415,14,109,25,"67","Killing other people and himself was probably his last resort... ",67,67,102,2,2,2,NULL
+416,14,109,26,"102","His only way out",102,67,102,2,1,2,NULL
+417,14,109,27,"67","Wish he could have gotten help and not ruin another person's life",67,67,102,2,2,3.5,NULL
+418,14,109,28,"102","I wonder what his family thought before hand, how his mental state was?",102,67,102,1,1,2,NULL
+419,14,109,29,"67","Agree. I think we have similar reactions and feelings towards this incidents",67,67,102,2,1,2,NULL
+420,14,109,30,"102","Yes I think so.  The world failed both people, our handling of mental health issues just isn't up to par.",102,67,102,2,2,4,NULL
+421,14,110,1,"61","Hello. did u  read the article?",61,61,37,1,0.5,0,NULL
+422,14,110,2,"37","yes i did, it was pretty upsetting, what was your first reaction from it?",37,61,37,2,2,2,NULL
+423,14,110,3,"61","I think it was such a tragedy, and I felt so bad for the victim the victims family and kind of a little bit angry as well because of the man who committed the crime it was unnecessary ",61,61,37,3,1.5,4,NULL
+424,14,110,4,"37","It's horrible that someone would do something like this, especially at an airport where so many people are just trying to travel safely.",37,61,37,3,2,3,NULL
+425,14,110,5,"61","yes I totally agree. There were so many people probably affected by it that had to witness it as well.",61,61,37,2,1.5,3,NULL
+426,14,110,6,"37","What emotions did you get from it?",37,61,37,1,1,1,NULL
+427,14,110,7,"61","sad and also, angry because of the man who committed the crime. What emotions did you get from it?",61,61,37,3,1.5,3,NULL
+428,14,110,8,"37","I felt a mix of sadness, anger, and concern. Sadness for the victim and their family, anger towards the shooter for committing such a heinous act, and concern for the safety of everyone who was at the airport at the time of the shooting.",37,61,37,3,1.5,4,NULL
+429,14,110,9,"61"," yes, I agree. That covers how I feel as well. ",61,61,37,2,1,4,NULL
+430,14,110,10,"37","I also felt sympathy for Michael Winchester's family, especially his son who is a professional football player for the Kansas City Chiefs",37,61,37,2,2,4,NULL
+431,14,110,11,"61","Yes, I saw that as well about his son plays for the Chiefs and his daughter is also a student athlete too",61,61,37,2,1.5,3,NULL
+432,14,110,12,"37","It just goes to show that these tragedies could happen to anyone at any time",37,61,37,2,1.5,3,NULL
+433,14,110,13,"61","yes that's the truth. It's awful and scary to think that it could happen to anybody anywhere.",61,61,37,2,2,3,NULL
+434,14,110,14,"37","I know!",37,61,37,3,1,2,NULL
+435,14,110,15,"61","I'm curious and wondering how the guy got past airport security with a gun? ",61,61,37,1,1.5,2,NULL
+436,14,110,16,"37","That is a good question, I guess someone dropped the ball",37,61,37,1,1.5,2,NULL
+437,14,110,17,"61","Yeah, that's for sure! It never mentioned it in the article that I saw. Did you see anything about how the guy got past them with a gun? ",61,61,37,2,1,2,NULL
+438,14,110,18,"37","I did not see any info about that, do you have any guesses as to how that could have happened?",37,61,37,1,1,2,NULL
+439,14,110,19,"61","I don't know either I can't think of a possible way I remember the article said that he kind of stalked the guy (premeditated) I don't remember the exact wording though",61,61,37,2,1,2,NULL
+440,14,110,20,"37","It's heart-wrenching to think about how much pain they must be going through right now",37,61,37,4,2,4,NULL
+441,14,110,21,"61","I could not even imagine what it must be like to be them. That is just awful. I couldn't begin to comprehend, what it must be like.",61,61,37,3,2,4,NULL
+442,14,110,22,"37","the article left me feeling deeply saddened and concerned about the safety of public spaces",37,61,37,3,2,2,NULL
+443,14,110,23,"61","I think it is sad, and I think the news should report good things that happen as much as they do report the bad things that happen",61,61,37,3,1.5,3,NULL
+444,14,110,24,"37","unfrotunately good news is not very popular and new companies are in the business of getting views",37,61,37,2,1.5,2,NULL
+445,14,110,25,"61"," yep. In the business of getting views and making dollars. If they would refocus their way of thinking and try to focus on positive things, I think there's a lot of people out there that would be more attracted to watching the news.",61,61,37,2,1,1,NULL
+446,14,110,26,"37","I agree, it could be worth a shot, I think there is a symbiotic relationship between media and the viewers, one could change the other",37,61,37,2,0.5,1,NULL
+447,14,110,27,"61","Yes, for sure. I totally agree with you. I think unfortunately negativities spreads quicker than good things and I don't know why that is",61,61,37,2,1,1,NULL
+448,14,110,28,"37","Misery loves company I guess haha",37,61,37,2,2,1,NULL
+449,14,110,29,"61","That’s spot on lol",61,61,37,2,1,1,NULL
+450,14,110,30,"37","Hopefully one day the world will be a better place",37,61,37,2,0,1,NULL
+451,14,113,1,"107","hello",107,107,93,1,1,1,NULL
+452,14,113,2,"93","Hey, how's it going today?",93,107,93,2,1,1,NULL
+453,14,113,3,"107","going well. and yourself?",107,107,93,1,1,1,NULL
+454,14,113,4,"93","Good, did you read the article about the Southwest guy getting killed?",93,107,93,1,1,1,NULL
+455,14,113,5,"107","Yeah my article was bout someone getting gunned down in oklahoma city",107,107,93,1,1,1,NULL
+456,14,113,6,"93","Exactly, My first thoughts were \"I wonder why the guy killed him\". The article didn't give a reason.",93,107,93,1,1,1,NULL
+457,14,113,7,"107","Yeah i just assumed they had to of known each other or something. seems a bit random, but i guess it happens",107,107,93,2,1,2,NULL
+458,14,113,8,"93","At first, because it was at an airport, I assumed it was a crazy passenger, but they said it was premeditated.",93,107,93,2,1,2,NULL
+459,14,113,9,"107","Yeah its crazy how people will just blow up and choose to go this level of violence ",107,107,93,1,2,2,NULL
+460,14,113,10,"93","I don't get it either. Forget the fact that you are killing another person, but how can your life be so meaningless as well.",93,107,93,2,2,3,NULL
+461,14,113,11,"107","exactly.  Makes me wonder what happened that was so bad that drove him to do that.  I will never understand why if a person gets mad their first reaction is to shoot the other person",107,107,93,3,2,2,NULL
+462,14,113,12,"93","That's what I fixated on as well, I hate to admit it, but a large part of me was wondering if he deserved it in some way, not that anyone \"deserves\" to be murdered.",93,107,93,2,2,2,NULL
+463,14,113,13,"107","I totally see your point. I feel the same way.  Just like you said, no one deserves to be murdered or shot.  Must of been worth it to the guy who murdered him i guess. ",107,107,93,2,2,2,NULL
+464,14,113,14,"93","It made me not so much sympathize with the guy who was killed, because I don't feel like I know the whole story. But, I greatly sympathized for his family. I can't imagine what they are going through.",93,107,93,3,2,1,NULL
+465,14,113,15,"107","that is defiantly the roughest part of  all of this.  how the family feels. especially if the person had kids or a significant other.  Shame that todays age is so quick to just shoot someone because they had an altercation. ",107,107,93,2,2,2,NULL
+466,14,113,16,"93","Honestly, I can't even imagine it. I'd be so angry if I were them. Angry about a lot of things probably.",93,107,93,3,2,2,NULL
+467,14,113,17,"107","I know the feeling. i would be so angry about it. Not angry where i would want revenge etc. But i would want justice. ",107,107,93,2,2,2,NULL
+468,14,113,18,"93","Yep. I'd be mad at the killer, mad that people have normalized crazy behavior in recent years. ",93,107,93,2,2,2,NULL
+469,14,113,19,"107","indeed. it seems that more and more shootings are happening  I think its time we start checking the people buying the guns more ",107,107,93,3,2,2,NULL
+470,14,113,20,"93","I agree, I grew up hunting but I don't get gun culture at all. That culture frightens me. ",93,107,93,2,2,1,NULL
+471,14,113,21,"107","it a big issue for sure. i do not specifically think it is just the \"guns\" fault . People can do bad stuff without guns. But i do feel that people need to be trained and screened more before getting one",107,107,93,2,2,1,NULL
+472,14,113,22,"93","Totally. I'm a gun owner. But, it's not part of my personality and too many people make guns and the implicit threat of violence a key part of their personality it seems.",93,107,93,1,2,1,NULL
+473,14,113,23,"107","same here. i completely agree  100%. Society now has just become violent.. everyone is so quick to judge what your doing  or how your are doing it",107,107,93,2,2,1,NULL
+474,14,113,24,"93","It's scary. I can tell you that I'm much more guarded with how I interact with strangers explicitly because of stories like this. ",93,107,93,3,2,1,NULL
+475,14,113,25,"107","same, its sad because i want to be friendly to people and i am, but i hate the fact that i always have to be on my guard now. ",107,107,93,3,2,1,NULL
+476,14,113,26,"93","I'm super polite, but always trying to end the interaction as quickly as possible. I'm not alone in that and I'm sure that my attitude does not help bring people closer together.",93,107,93,3,2,1,NULL
+477,14,113,27,"107","Im the same way.. On a side note. I think this study has expired so i have no idea how im supposed to submit now for payment. Not sure if your timer expired as well ",107,107,93,2,1,1,NULL
+478,14,113,28,"93","I've still got timer left, I\"ve messaged them before and I'm confident they'll make it right for you. ",93,107,93,1,1,1,NULL
+479,14,113,29,"107","Thanks , ill try messaging them as well after this. i get nervous when timers run out. I thought there would be enough time but i was working on others in my que before i got to this one. ",107,107,93,1,1,1,NULL
+480,14,113,30,"93","Totally understandable. I'm still thinking about this guy's family, how his son is in the NFL and how I bet they had a great relationship. It makes me want to call my dad.",93,107,93,3,2,2,NULL
+481,14,118,1,"38","hi!",38,38,108,2,1,0.5,NULL
+482,14,118,2,"108","Hello!",108,38,108,2,1,0.5,NULL
+483,14,118,3,"38","The artticle wasn't surprising really. We have shootings everyday anymore",38,38,108,2,2,0.5,NULL
+484,14,118,4,"108","Its horrible isn't it? I hate how numb to it I'm becoming.",108,38,108,3,2,1,NULL
+485,14,118,5,"38","It's a shame really! Numb is the way I would put it as well",38,38,108,3,2,1,NULL
+486,14,118,6,"108","I imagine a lot of us are feeling it at this point",108,38,108,2,2,1,NULL
+487,14,118,7,"38","I would say you are correct. It's bad when you get your mass shootings confused...lol",38,38,108,3,2,1,NULL
+488,14,118,8,"108","Exactly! ",108,38,108,3,1,0.5,NULL
+489,14,118,9,"38","I do feel horrible for the families",38,38,108,3,2,4,NULL
+490,14,118,10,"108","Oh absolutely, I can't imagine having someone you love die violently",108,38,108,3,2,4,NULL
+491,14,118,11,"38","I couldn't either, and we live with that fear every time we send our kids out the door to school",38,38,108,2,2,2.5,NULL
+492,14,118,12,"108","Thats the scariest part, its so scary that we have to prepare kids for that",108,38,108,3,2,2.5,NULL
+493,14,118,13,"38","yeah it gives a whole new meaning to \"the talk\"",38,38,108,2,1,1.5,NULL
+494,14,118,14,"108","ha, it really does...aside from the depressing article how's your day going?",108,38,108,2,1,2.5,NULL
+495,14,118,15,"38","Not bad so far, thanks for asking! How has your day been?",38,38,108,2,0,0.5,NULL
+496,14,118,16,"108","Good, i'm planting some flowers in between jobs before it gets too hot",108,38,108,2,0,1,NULL
+497,14,118,17,"38","That sounds fun! where are you from?",38,38,108,3,0,0.5,NULL
+498,14,118,18,"108","Northern WA, you?",108,38,108,1,1,0.5,NULL
+499,14,118,19,"38","Ahh thats really cool! I'm from Kentucky...down south..lol",38,38,108,3,0,0.5,NULL
+500,14,118,20,"108","Omg I'm from Louisville!",108,38,108,4,0,0.5,NULL
+501,14,118,21,"38","WOW!!! How awesome is that! Im in Lexington!!!",38,38,108,5,0,0.5,NULL
+502,14,118,22,"108","I miss it every single day, haven't been back in about 25 years",108,38,108,3,1,0.5,NULL
+503,14,118,23,"38","Wow..Thats kinda sad because I look for ways to get out of here everyday. I want to move out west. I've been here for 40 years, it's time to move on for me",38,38,108,3,2,1.5,NULL
+504,14,118,24,"108","Well northern WA is beautiful but way too expensive for my tastes",108,38,108,2,0,0.5,NULL
+505,14,118,25,"38","Yeah thats one thing that keeps me here. The cost of living isn't horrible",38,38,108,2,0,0.5,NULL
+506,14,118,26,"108","And the fried chicken...you will NEVER have good real fried chicken here lol",108,38,108,3,0,0.5,NULL
+507,14,118,27,"38","lol..I bet! We have recently had a few shootings in Louisville",38,38,108,3,1,0.5,NULL
+508,14,118,28,"108","I saw that! He was from my high school!",108,38,108,4,1,0.5,NULL
+509,14,118,29,"38","wow...im sorry to hear that",38,38,108,3,2,1.5,NULL
+510,14,118,30,"108","Yeah, way too small world in that case...I think this might be the end of that chat, it was great talking to you",108,38,108,2,0,1,NULL
+511,15,121,1,"77","hi",77,77,69,1,1,0,NULL
+512,15,121,2,"69","Hey, how are you?",69,77,69,1,1,0,NULL
+513,15,121,3,"77","fine thank you, how about you?",77,77,69,1,1,0,NULL
+514,15,121,4,"69","I'm good. What did you think of the article?",69,77,69,1,0,0,NULL
+515,15,121,5,"77","What was the article you read about? mine was about an airstrike in Yemen. ",77,77,69,1,1,1,NULL
+516,15,121,6,"69","I had the same one about the Yemen airstrikes I believe.",69,77,69,1,1,1,NULL
+517,15,121,7,"77","I think that the loss of life is not really necessary, there are other ways of solving  conflicts",77,77,69,2,2,3.5,NULL
+518,15,121,8,"69","True, they are in a tough situation out there. I wish there could be some sort of agreement to stop the loss of life.",69,77,69,3,2,3.5,NULL
+519,15,121,9,"77","what emotions did the article give you?",77,77,69,1,1,1.5,NULL
+520,15,121,10,"69","It was sad for me to hear what's going on. I have a friend from Yemen, who luckily got out with his family a few years back. I know there are still so many people stuck there in this crisis though, its tough to think about. How about you?",69,77,69,3,2,3.5,NULL
+521,15,121,11,"77","what can countries like ours do to help this waring countries?",77,77,69,1,1,3.5,NULL
+522,15,121,12,"69","I think we can help, at least I think that's better than doing nothing. Providing food, health supplies, and in some cases refuge. What do you think other countries should be doing to help, if anything? ",69,77,69,2,1,4,NULL
+523,15,121,13,"77","i agree with you",77,77,69,1,1,3,NULL
+524,15,121,14,"69","Cool, do you think the US military should be involved in the conflicts?",69,77,69,1,1,2.5,NULL
+525,15,121,15,"77","Yes definitely but not the way it is currently ",77,77,69,2,1,3,NULL
+526,15,121,16,"69","Yeah, I think they should be involved when helping allies, or when protecting against threats to the US. Its just upsetting when civilians and innocent people end up getting killed as a result.",69,77,69,3,2,4,NULL
+527,15,121,17,"77","It is sad for innocents to get caught up in it",77,77,69,3,2,4,NULL
+528,15,121,18,"69","Do you think the civil conflict there will ever be resolved? It seems like it has gone on for so long.",69,77,69,2,2,3,NULL
+529,15,121,19,"77","I am not sure about that, it is in human nature to always have conflicts ",77,77,69,2,2,2.5,NULL
+530,15,121,20,"69","Yeah, its sad to think about but I see no easy way for it to come to an end, especially after peace proposals have been repeatedly rejected.",69,77,69,3,2,3,NULL
+531,15,121,21,"77","true. if we could use robots to fight wars instead  of humans that would be nice",77,77,69,2,1,2.5,NULL
+532,15,121,22,"69","Haha that would be nice. Robots or maybe agree to roll the dice to see who wins. Really any way to keep civilians out of it.",69,77,69,2,0,2.5,NULL
+533,15,121,23,"77","yes no loss of life",77,77,69,2,0,2.5,NULL
+534,15,121,24,"69","Do you think the US media has done enough to show what's going on in Yemen? I feel like I hardly hear anything about the conflict anymore.",69,77,69,1,1,3,NULL
+535,15,121,25,"77","No, and the reason they have not is lack of access. The media is usually restricted from covering such events",77,77,69,1,1,2,NULL
+536,15,121,26,"69","They are? I didn't know that. Is it like a security thing?",69,77,69,1,1,2.5,NULL
+537,15,121,27,"77","i agree with you",77,77,69,1,1,1,NULL
+538,15,121,28,"69","OK. Well I think we're coming to the end of our messages, its been good chatting with you!",69,77,69,2,0,0,NULL
+539,15,121,29,"77","you too. until next time.",77,77,69,1,1,0,NULL
+540,15,121,30,"69","Farewell",69,77,69,1,1,0,NULL
+541,16,144,1,"61","hello. Did you read the article and how did you feel about it what was your first reaction ",61,61,111,1,1,1,NULL
+542,16,144,2,"111","Hello",111,61,111,1,1,1,NULL
+543,16,144,3,"61","what was your first reaction of the article",61,61,111,1,1,1,NULL
+544,16,144,4,"111","made me feel very scared, how did you feel after you read the article",111,61,111,2,2,3,NULL
+545,16,144,5,"61","I'm sorry that it made you feel scared. I sympathize with you. ",61,61,111,3,1.5,3,NULL
+546,16,144,6,"111","How did it make you feel",111,61,111,1,1,2,NULL
+547,16,144,7,"61","I felt bad for the people that live there. That's my first thought. I feel really bad for the people that live there and probably can't do anything about it to leave because it sounds like a real crappy place in my opinion",61,61,111,3,2,3,NULL
+548,16,144,8,"111","I don't really understand what the war is about do you?",111,61,111,2,1.5,2,NULL
+549,16,144,9,"61","from my understanding there were rebels that were given an ultimatum to lay down their arms and if not they were going to be killed it also said the article was from CNN so I don't take too much stock and anything that comes from there ",61,61,111,2,1.5,3,NULL
+550,16,144,10,"111","I read that to but that's not what the war is about.  I would like to find out. ",111,61,111,1,1,2,NULL
+551,16,144,11,"61","It doesn't say specifically but it mentions some things like when it referred to how Russia is there a major player with the president and government over there and how syria is trying to gain control over the city but I I don't understand completely myself honestly ",61,61,111,2,1,3,NULL
+552,16,144,12,"111","Either way I cannot not imagine having to live like that how about you",111,61,111,2,2,2,NULL
+553,16,144,13,"61","I could not imagine living like that. I am very thankful to be an American and living in the United States. There is absolutely no way I would ever want to live in Syria with that type of stuff going on that's for sure. The article also talked about Isis and some things about the Kurds they talked about a lot of the groups over there  ",61,61,111,3,2,3,NULL
+554,16,144,14,"111","It's really quite crazy to think this is going on in our world right now as we chat",111,61,111,2,1.5,2,NULL
+555,16,144,15,"61","yes i agree. After I had sent that last message I started thinking maybe that is one of the reasons that it is going on over there  because it says something about Isis and having a strong hold over a city over there ",61,61,111,2,1.5,2,NULL
+556,16,144,16,"111","are you a real person? who really read the article",111,61,111,2,1,1,NULL
+557,16,144,17,"61","lol yes I am not a robot lol I had this conversation like this the other day when we had to prove we weren't robots lol I am a real person I have a worker ID number and everything how about you? And yes I read the article did you read the article? ",61,61,111,2,0.5,1,NULL
+558,16,144,18,"111","Yes I ready the article usually these tasks tell you after the fact you were not talking with a real person.  Do you have anyone you know over there?",111,61,111,2,1,3,NULL
+559,16,144,19,"61","i understand and i I always hate that at the end when you get told then that it was a robot or they were so much deception involved it tends to really irritate me lol but I have listed  major points of the article, and just because I don't fully understand it or understand why it happened doesn't mean I'm not real lol ",61,61,111,3,1.5,1,NULL
+560,16,144,20,"111","Yes i know.  Do you know of anyone who lives over there?",111,61,111,1,1,2,NULL
+561,16,144,21,"61","no I do not know anyone who lives over there. Do you? Do you have family or anything over there or friends? ",61,61,111,1,1,2,NULL
+562,16,144,22,"111","No I don't but there was that couple on 90 day fiancé.  She changed her religion and moved over there to marry, but they would never be able to move the US ",111,61,111,2,1,2,NULL
+563,16,144,23,"61","Oh my gosh are you serious? I have not watched that show but I know of that show ",61,61,111,2,0.5,2,NULL
+564,16,144,24,"111","Yes, it was very interesting.  Even to see eachother they had to meet in certain countries because he was syrian",111,61,111,2,0.5,2,NULL
+565,16,144,25,"61","oh wow! Tell me more about that lol where did they go to meet and stuff? How did they meet like for the first time? lol",61,61,111,3,0,1,NULL
+566,16,144,26,"111","If I remember right they went to Bali or something because syria is considered a terrorist country they are not allowed in many countries or something",111,61,111,0,0,3,NULL
+567,16,144,27,"61","yes Syria is considered a terrorist country. They are involved and a lot of terrorist groups come out of Syria. But this 90 day fiancé show sounds rather interesting lol what is it a whole season based on this I don't know why this just grabbed my attention but it sounds really interesting. Sounds complicated too lol",61,61,111,2,1,3,NULL
+568,16,144,28,"111","lol, yes. It's reality tv so they have a season on how they meet, then if they get serious the apply for a visa to get married and have 90 days to do it.  It fun and crazy all at the same time.  ",111,61,111,2,0,1,NULL
+569,16,144,29,"61","lol that sounds pretty cool pretty interesting to watch lol I never watched it myself and I never really should have judged it as a reality show and not being interesting or some thing I guess because I never gave it a chance if that makes sense ",61,61,111,2,0,1,NULL
+570,16,144,30,"111","But reading that article made me recall that season and part of their dilema was where they would live.  She couldn't go to syria as they would kill her but he had to go to finish like his schooling or something.",111,61,111,2,2,2,NULL
+571,16,145,1,"112","Hello",112,112,113,1,1,0,NULL
+572,16,145,2,"113","hello",113,112,113,1,1,0,NULL
+573,16,145,3,"112","what did you think of the article?",112,112,113,1,1,0,NULL
+574,16,145,4,"113","it made me sad",113,112,113,3,2,3,NULL
+575,16,145,5,"112","It was quite distressing to read for me. I am not a fan of war",112,112,113,3,2,3,NULL
+576,16,145,6,"113","i think Syria is being unfairly attacked",113,112,113,3,2,3,NULL
+577,16,145,7,"112","I agree. Many innocent people are getting harmed.",112,112,113,3,2,3,NULL
+578,16,145,8,"113","the food shortages were alarming",113,112,113,3,2,4,NULL
+579,16,145,9,"112","What did you think about the warning message sent to residents of Aleppo? How did it make you feel?",112,112,113,1,1,2,NULL
+580,16,145,10,"113","that would be a shocking warning message to receive, it made me feel alarmed and shocked",113,112,113,4,2,4,NULL
+581,16,145,11,"112","Yes me too.",112,112,113,2,2,3,NULL
+582,16,145,12,"113","i think the amount of people being killed in Syria is being censored",113,112,113,3,2,2,NULL
+583,16,145,13,"112","Probably to keep others from panicking. The article mentions the lack of aid and supplies in Aleppo. Do you think more can be done to help the civilians affected by the conflict? If so, what do you think should be done?",112,112,113,2,1,2,NULL
+584,16,145,14,"113","Yes, the Turkish government and other entities such as the USA proxy armies should stop attacking Syria",113,112,113,3,2,2,NULL
+585,16,145,15,"112","I agree. The USA seems to have their nose in everyone's business.",112,112,113,2,2,2,NULL
+586,16,145,16,"113","USA has a global war machine",113,112,113,3,2,1,NULL
+587,16,145,17,"112","What do you think needs to happen for the conflict in Aleppo to come to an end and for the people there to begin to rebuild their lives?",112,112,113,2,1,2,NULL
+588,16,145,18,"113","it would be good for Turkey and USA and others to stop funding the Free Syrian Army (FSA) and other entities that are attacking the innocent Syrian people",113,112,113,2,2,3,NULL
+589,16,145,19,"112","I think so as well. Now when do we get this code. It has been more than 15 respones",112,112,113,2,1,1,NULL
+590,16,145,20,"113","we have to do 15 responses each, i think it is interesting that countries have these battles with each other but they all have a treaty together for Antarctica",113,112,113,2,1,1,NULL
+591,16,145,21,"112","Yes, Antarctica seems to have a lot of attention from people and yet we still don't know all about it. ",112,112,113,2,1,1,NULL
+592,16,145,22,"113","i recently read about the Flat Earth Theory saying that Antarctica is an ice wall ",113,112,113,2,1,1,NULL
+593,16,145,23,"112","I'll have to read into that. The article mentions that the Syrian government is accusing rebels of using civilians as human shields. What do you think about this accusation? Do you think it is a valid argument or an excuse to justify attacks on civilian areas?",112,112,113,2,1,1,NULL
+594,16,145,24,"113","it is probably an excuse to justify attacks on civilian areas, i think Syria is telling the truth and the opposition is lying",113,112,113,2,2,2,NULL
+595,16,145,25,"112","It also mentioned that the UN warned that eastern Aleppo was on the brink of starvation. Do you think that the international community has a responsibility to intervene in situations like this to prevent mass suffering?",112,112,113,2,1,2,NULL
+596,16,145,26,"113","the \"international community\" seems to want to starve Syria perhaps because Syria is not willing to use the same monetary system as other countries?",113,112,113,3,1,1,NULL
+597,16,145,27,"112","That is an interesting way to think about it. ",112,112,113,1,1,1,NULL
+598,16,145,28,"113","the United Nations and other entities want globalism with a one-world currency and one-world religion for maximum control",113,112,113,3,2,2,NULL
+599,16,145,29,"112","So true. Sorry i'm running out of questions to ask",112,112,113,2,1,1,NULL
+600,16,145,30,"113","what do you think is the proper future number for the global human population?",113,112,113,2,1,1,NULL
+601,16,150,1,"119","Hello, hope you are well",119,119,72,2,0,0,NULL
+602,16,150,2,"72","Hello",72,119,72,1,1,0,NULL
+603,16,150,3,"119","Honestly I found the article overall sad especially with them having to abandon the area in 24 hours",119,119,72,3,2,3,NULL
+604,16,150,4,"72","So did I. Very tragic",72,119,72,3,2,3,NULL
+605,16,150,5,"119","If only something could be done",119,119,72,2,2,4,NULL
+606,16,150,6,"72","I think the article was quite dated though",72,119,72,1,1,2,NULL
+607,16,150,7,"119","Really? I was reading though the entire article and I was so focused that I could not find the date",119,119,72,2,1,3,NULL
+608,16,150,8,"72","I seem to recall this happened a while back. Nevertheless, very sad to read",72,119,72,2,2,3,NULL
+609,16,150,9,"119","Yep, especially the idea of them potentially starving too",119,119,72,2,2,4,NULL
+610,16,150,10,"72","Yes, it's hard to imagine going through that",72,119,72,2,2,4,NULL
+611,16,150,11,"119","A lot of people hopefully never have to go though an experience like that",119,119,72,2,1,4,NULL
+612,16,150,12,"72","It shows the risks of a fragmented society",72,119,72,2,2,3,NULL
+613,16,150,13,"119","Definitely but then you stop and think. Why is Russia getting involved in this Syrian Civil war? ",119,119,72,3,1,2,NULL
+614,16,150,14,"72","And why is Turkey?",72,119,72,2,1,2,NULL
+615,16,150,15,"119","Exactly, what does Turkey have to do with this as well",119,119,72,3,1,2,NULL
+616,16,150,16,"72","Great power rivalry I suppose",72,119,72,2,1,2,NULL
+617,16,150,17,"119","I suppose so, but overall nothing we can do as much we would like to",119,119,72,2,2,3,NULL
+618,16,150,18,"72","I agree, I wish we could",72,119,72,2,1,4,NULL
+619,16,150,19,"119","It further shows you the tragedy of war and why people should not be rooting for it",119,119,72,3,2,4,NULL
+620,16,150,20,"72","What can we do though?",72,119,72,2,1,3,NULL
+621,16,150,21,"119","Probably tell our US government that first of all war should never be celebrated",119,119,72,3,1,3,NULL
+622,16,150,22,"72","DO they listen?",72,119,72,3,2,3,NULL
+623,16,150,23,"119","Of course not, see what they are doing with Ukraine. There is no peace yet, and it just enriches the biggest weapon manufacturers.",119,119,72,3,2,3,NULL
+624,16,150,24,"72","I agree",72,119,72,1,1,2,NULL
+625,16,150,25,"119","Even though I see the war between Russia and Ukraine, as something Russia started. Sending more weapons definitely should be off the table",119,119,72,3,1,2,NULL
+626,16,150,26,"72","It's important to vote",72,119,72,2,1,2,NULL
+627,16,150,27,"119","It's, not like either party cares honestly",119,119,72,2,1,2,NULL
+628,16,150,28,"72","Likely true, sadly",72,119,72,2,2,2,NULL
+629,16,150,29,"119","Then again going back to the topic on hand, we would see if the war in Syria eventually ends",119,119,72,1,1,3,NULL
+630,16,150,30,"72","I hope it does soon",72,119,72,2,1,4,NULL
+631,17,163,1,"130","Hello",130,130,131,1,1,0,NULL
+632,17,163,2,"131","Hi",131,130,131,1,1,0,NULL
+633,17,163,3,"130","So what did you think about the article?",130,130,131,1,1,0,NULL
+634,17,163,4,"131","I thought it was rather depressing but honest. How about you?",131,130,131,2,2,3,NULL
+635,17,163,5,"130","Same. It's horrible what those people are going through. I wish something could be done.",130,130,131,3,2,4,NULL
+636,17,163,6,"131","I feely you...when I read things like that I feel so helpless",131,130,131,2,2,4,NULL
+637,17,163,7,"130","Yeah, no amount of human suffering is worth a war.",130,130,131,2,2,4,NULL
+638,17,163,8,"131","It all seems so futile, especially since the average family is the one who suffers the most, not the actual fighters.",131,130,131,2,2,4,NULL
+639,17,163,9,"130","Yep, the citizens are the ones who are displaced and end up starving to death.",130,130,131,2,2,4,NULL
+640,17,163,10,"131","I can't help but think what would happen to my grandmother and family if there was a war like this in the US",131,130,131,2,2,3,NULL
+641,17,163,11,"130","I think about the same thing. It's one of the reasons I fear a global conflict.",130,130,131,2,2,3,NULL
+642,17,163,12,"131","It could just as easily happen anywhere. It is scary and again makes me feel helpless.",131,130,131,2,2,3,NULL
+643,17,163,13,"130","Yep. I just wish all sides would just calm down and work things out diplomatically.",130,130,131,2,2,3,NULL
+644,17,163,14,"131","Yeah but the Good Ole Boys Club will never let that happen.",131,130,131,3,2,2,NULL
+645,17,163,15,"130","Nope, there is just too much money to be made from weapons and defense contracts.",130,130,131,2,2,2,NULL
+646,17,163,16,"131","Exactly. The people at the root don't have to deal with the problems mentioned in the article",131,130,131,1,2,3,NULL
+647,17,163,17,"130","No, they don't deal with the problem, but sadly they're usually the ones creating it.",130,130,131,2,2,3,NULL
+648,17,163,18,"131","Yes that's exactly what I mean. They make decisions that create major trickle down life and death scenarios constantly",131,130,131,2,2,3,NULL
+649,17,163,19,"130","People need to start voting for better leaders. Assuming they're a democracy, anyway.",130,130,131,2,0,3,NULL
+650,17,163,20,"131","In an ideal world that would help.",131,130,131,1,0,3,NULL
+651,17,163,21,"130","Yep. I wish more places would embrace the democratic process -- then a lot of this could be prevented.",130,130,131,2,0,2,NULL
+652,17,163,22,"131","Yes but even democratic countries go to war and are capable of causing this kind of suffering",131,130,131,2,2,3,NULL
+653,17,163,23,"130","Yeah, I guess democracy doesn't do a lot of good if the country is filled with warmongering voters.",130,130,131,2,2,3,NULL
+654,17,163,24,"131","Well said. I thought the point about the hospitals not being able to handle the chronic health issues of the elderly was an interesting and sad point as well",131,130,131,2,2,4,NULL
+655,17,163,25,"130","Yeah, they are too busy tending to battlefield wounds. It's sad. The man who lives with his ten children and grandchildren really stuck with me. I can't imagine living in fear of an airstrike on your house at any given moment.",130,130,131,3,2,4,NULL
+656,17,163,26,"131","Right? It would be so exhausting and frustrating to live like that.",131,130,131,2,2,4,NULL
+657,17,163,27,"130","It makes me grateful for what I have and where I live.",130,130,131,2,0,2,NULL
+658,17,163,28,"131","No kidding. I don't think I'd be able to handle that kind of life.",131,130,131,3,0,3,NULL
+659,17,163,29,"130","Nope. Those people are a lot stronger than I am.",130,130,131,2,1,3,NULL
+660,17,163,30,"131","I found myself wondering how they get through the day.",131,130,131,2,2,3,NULL
+661,17,164,1,"132","Hello, what did you think about the article?",132,132,113,1,1,0,NULL
+662,17,164,2,"113","it was dramatic",113,132,113,2,1,2,NULL
+663,17,164,3,"132","It was, but also realistic. ",132,132,113,2,1,2,NULL
+664,17,164,4,"113","that war on Syria is sad and wrong",113,132,113,3,2,4,NULL
+665,17,164,5,"132","I agree. There are so many wars going on around the world. I also wonder how I can help.",132,132,113,3,0,3,NULL
+666,17,164,6,"113","The USA likes waging many wars",113,132,113,2,2,2,NULL
+667,17,164,7,"132","What do you think is the main cause of war. Land, money, or something else?",132,132,113,1,1,2,NULL
+668,17,164,8,"113","land",113,132,113,1,1,2,NULL
+669,17,164,9,"132","It seems so counter productive to me, that they destroy the land they want.",132,132,113,2,2,2,NULL
+670,17,164,10,"113","they destroy it so they can rebuild it for more profit and power",113,132,113,3,2,3,NULL
+671,17,164,11,"132","That makes sense. Have you ever experienced war first hand?",132,132,113,1,1,2,NULL
+672,17,164,12,"113","not on the frontlines",113,132,113,1,1,1,NULL
+673,17,164,13,"132","I have not either. I guess that's a blessing.",132,132,113,2,0,2,NULL
+674,17,164,14,"113","some might say there is a war on the USA with inflation and food factories on fire and train derailments",113,132,113,2,2,1,NULL
+675,17,164,15,"132","True. It's like a silent war.",132,132,113,1,2,1,NULL
+676,17,164,16,"113","i think the say groups waging war on Syria are also waging war on USA",113,132,113,1,2,2,NULL
+677,17,164,17,"132","It's unfortunate to have these groups become so powerful and during these wars the most vulnerable population are left to fend for themselves. ",132,132,113,2,2,4,NULL
+678,17,164,18,"113","i think there is a global population happening in Syria and also the USA",113,132,113,1,1,0,NULL
+679,17,164,19,"132","A global population? Like a reduction?",132,132,113,1,1,1,NULL
+680,17,164,20,"113","yep, groups like the United Nations want to reduce the population from 8 billion to a lower number",113,132,113,2,2,1,NULL
+681,17,164,21,"132","Oh that's horrible, I guess that will address the baby boomer issue as that group is left alone.",132,132,113,3,2,2,NULL
+682,17,164,22,"113","people are having fewer kids, becoming more sterile, and also being trained to feel guilty about having kids",113,132,113,2,2,3,NULL
+683,17,164,23,"132","Absolutely, it feels like having a child is the irresponsible things to do Moms are shamed all of the time.",132,132,113,2,2,2,NULL
+684,17,164,24,"113","the person in the story had 10 children and grandchildren living with them, quite an ordeal in a war situation",113,132,113,2,2,4,NULL
+685,17,164,25,"132","Yes there's a lot of mouths to feed and if a bomb hit's their home, the whole family would be lost.",132,132,113,3,2,4,NULL
+686,17,164,26,"113","yes, the food shortages must be very stressful",113,132,113,2,2,4,NULL
+687,17,164,27,"132","And I wonder how their water supply is affected.",132,132,113,1,1,3,NULL
+688,17,164,28,"113","probably, they are trying to wear Syria down, but the people of Syria have held strong for many years",113,132,113,1,0,4,NULL
+689,17,164,29,"132","They have been in war for a long time, but stand strong and united no matter what.",132,132,113,2,0,4,NULL
+690,17,164,30,"113","Hopefully the people of the USA will also stay strong.",113,132,113,2,0,3,NULL
+691,17,170,1,"135","Hello?",135,135,136,1,1,1,NULL
+692,17,170,2,"136","Hi there!",136,135,136,1,1,1,NULL
+693,17,170,3,"135","Hi! So, how did you feel about the article?",135,135,136,1,1,1,NULL
+694,17,170,4,"136","It left me a bit depressed and sad. How about you?",136,135,136,2,2,3,NULL
+695,17,170,5,"135","Me too... I can't imagine what it'd be like to have to spend the final years of your life in a country with so much war.",135,135,136,3,2,3,NULL
+696,17,170,6,"136","Right, I'm in the U.S. and some of this feel so removed even though it's really not.",136,135,136,2,2,3,NULL
+697,17,170,7,"135","Me too. It's hard to imagine, but at the same time, I know it's real for some people...",135,135,136,3,2,3,NULL
+698,17,170,8,"136","Definitely, it made me think about the circumstances under which I would even consider leaving my parents. Maybe if I had young kids or something, but I cannot get my head around it.",136,135,136,2,2,3,NULL
+699,17,170,9,"135","Agreed. I don't think I could ever rest easily knowing that my parents lives are at risk like that.",135,135,136,2,2,3,NULL
+700,17,170,10,"136","I guess the article also made me angry at how civilians get caught up in armed conflicts and are used by both/all sides.",136,135,136,3,2,4,NULL
+701,17,170,11,"135","I can agree with that. In war, it seems like civilians are seen simply as numbers, rather than human beings living real lives. It's hard to accept that some people are dehumanized in that way. We'd never accept such a thing happening in the U.S.",135,135,136,2,2,3,NULL
+702,17,170,12,"136","Right, I know we try to \"minimize\" collateral damage but that it is inevitable in these situation. Still hard to comprehend.",136,135,136,2,2,3,NULL
+703,17,170,13,"135","I wonder if there's another way. Does one really have to kill innocent people in order to make a point?",135,135,136,2,1,3,NULL
+704,17,170,14,"136","Society would have to change a lot for us to get to that point but it does seem like there have to be better ways.",136,135,136,2,1,3,NULL
+705,17,170,15,"135","Yeah, it would take a lot of effort on both sides in order to get to that point, but I hope that some day, innocent people don't have to lose their lives over a fight they're not involved in...",135,135,136,2,1,3,NULL
+706,17,170,16,"136","In the article, I was curious that the one person remaining in Aleppo in the home he built had 10 children living with him. If he's that elderly, I thought they would be in their 40s or 50s which was odd.",136,135,136,1,1,3,NULL
+707,17,170,17,"135","Huh, I never thought about it like that. I suppose so. Wouldn't they have children of their own at that point?",135,135,136,2,1,2,NULL
+708,17,170,18,"136","That's what I was thinking, but just curious about it. I need to do some more specific research about Syria itself and the conflict there too.",136,135,136,2,1,3,NULL
+709,17,170,19,"135","Yeah, hearing about it, it almost feels like they're living in an entirely different world. I wonder if it's standard for children to stay in the home for that long?",135,135,136,2,1,2,NULL
+710,17,170,20,"136","I suspect in other cultures. I lived in a developing country and it was so different from the U.S., multiple generations in one home or next to each other. Grandparents took care of little kids while parents worked. People took care of grandparents, etc., no retirement, government assistance.",136,135,136,2,1,3,NULL
+711,17,170,21,"135","Oh, did you? That's interesting. It seems like other countries are more collectivist - more oriented toward taking care of the family than toward individual success.",135,135,136,2,0,2,NULL
+712,17,170,22,"136","Right, LOL....my parents have absolutely no desire to live with me or my sibling, so very different expectations.",136,135,136,3,0,2,NULL
+713,17,170,23,"135","Lol, I would imagine that my parents would be the same, yes. Then again, it sounds like you're speaking about a situation in which families are nearly forced to live together, since there's no retirement or anything. Grandparents would be forced to live with their kids and be taken care of by them, or they wouldn't be able to pay for food or shelter.",135,135,136,3,0,3,NULL
+714,17,170,24,"136","Right...although I imagine my parents would probably push me to leave with kids if the situation were like Aleppo even if I didn't want to do it.",136,135,136,2,1,2,NULL
+715,17,170,25,"135","Yeah... I imagine it'd be hard to suddenly relocate after building a whole life in one place, but I think that the person from the story would find a lot of peace leaving and finding somewhere else to live.",135,135,136,2,1,3,NULL
+716,17,170,26,"136","I was thinking more in terms of frailty and health conditions but if the guy in the story could leave with the family....that size seems like they could manage assisting a couple of elderly folks.",136,135,136,2,1,2,NULL
+717,17,170,27,"135","Yeah, I wonder what the children's opinions of the situation are, now that I'm thinking about it. I imagine at least one of them would have suggested leaving.",135,135,136,2,1,3,NULL
+718,17,170,28,"136","Yes and you have the one kid who came back from Turkey and got stuck so must be incredibly difficult to leave. There's a sense of hopelessness with the options too, I imagine.",136,135,136,2,2,4,NULL
+719,17,170,29,"135","Yeah... It seems that way. I wish I could show these people a better life somehow. It's so sad that people are forced to live their only life in the midst of a warzone. I know it's improbable, but I still wish I could.",135,135,136,2,2,4,NULL
+720,17,170,30,"136","Same, it makes me wonder how many people live in these active conflict zone and then others are in refugee camps, etc., and basically can't leave.",136,135,136,2,2,3,NULL
+721,18,171,1,"137","Whatd you think of the article?",137,137,60,1,1,0,NULL
+722,18,171,2,"60","I thought it was interesting but I was curious to know how the polar bears' populations have changed during the time discussed.",60,137,60,2,1,2,NULL
+723,18,171,3,"137","I agree, there wasn't much information given in that area",137,137,60,1,1,2,NULL
+724,18,171,4,"60","I'm also curious to see how polar bears adapt to their changing conditions.  Life doesn't usually just roll over and die.  It adapts and finds a way.  I'm curious how their behavior is changing.",60,137,60,2,0,2,NULL
+725,18,171,5,"137","It is tough without the population data because they could be handling very well",137,137,60,2,1,1,NULL
+726,18,171,6,"60","Yes, I suppose.  I'm not sure that's likely, but it's possible. They're big, impressive creatures.  But even they're weak compared to nature.",60,137,60,2,2,2,NULL
+727,18,171,7,"137","I read more into the article being that of a expected time shift, something that happens every so often to the Earth",137,137,60,2,1,1,NULL
+728,18,171,8,"60","It's true that lots of things about earth change over time.  We tend to think of what we know of earth as how it's SUPPOSED to be.  But the reality is that polar bears have existed on earth for the blink of an eye compared to the time they haven't existed on earth, let alone in the universe.",60,137,60,2,2,1,NULL
+729,18,171,9,"137","I'm hoping that is what is causing the shifts, tough problem to solve on a global scale",137,137,60,1,2,2,NULL
+730,18,171,10,"60","Yes, it's a very difficult problem to solve.  Does the thought of polar bears dying out make you sad, or does it make you happy because it means fewer seals are being eaten by polar bears?",60,137,60,1,2,2,NULL
+731,18,171,11,"137","Definitely sad since that means that others can't experience also",137,137,60,3,2,3,NULL
+732,18,171,12,"60","Polar bears are a unique and impressive species.  Have you ever seen one in person?  I've seen them at the Denver Zoo.",60,137,60,3,0,3,NULL
+733,18,171,13,"137","Yeah I've seen one at the Cincinnati Zoo. Couldn't imagine not having polar bears around",137,137,60,1,0,3,NULL
+734,18,171,14,"60","Do you think they'll adapt to their changing conditions?",60,137,60,1,1,2,NULL
+735,18,171,15,"137","If the season is just shifting yes. Whats your viewpoint",137,137,60,1,0,2,NULL
+736,18,171,16,"60","I think their behavior will definitely change.  If the ice patterns, which dictate their hunting behavior, change, they will migrate or do something to just to adapt.  That might involve infringing on human territory more often.  And at that point who knows what happens to them.  Because while polar bears are impressive, humans won't put up with them invading their spaces for too long.",60,137,60,3,0,3,NULL
+737,18,171,17,"137","What would you think is the best option to fix it?",137,137,60,1,1,2,NULL
+738,18,171,18,"60","It's way too complex a problem to suggest one simple solution.  I personally think that concerns for the polar bears should come way, way down on a list of priorities.  What do you think?",60,137,60,2,1,1,NULL
+739,18,171,19,"137","Im not sure. Do you think this seasonal shift could snowball into a large problem?",137,137,60,2,1,2,NULL
+740,18,171,20,"60","A large problem for whom?  I think this could certainly spell trouble for polar bears.  And that will have some effect on seal populations, and possibly human settlements in and around the arctic. But the issue with the polar bears, per se, I don't think resuls in some snowball of destruction.",60,137,60,2,2,2,NULL
+741,18,171,21,"137","It is possible that polar bears population increase after a decrease",137,137,60,1,0,3,NULL
+742,18,171,22,"60","Sure, that's possible.  Lots of things are possible.  I think in the short term, however, the polar bear populations will likely be decreasing, and something about the situation will have to change for the populations to start increasing.",60,137,60,2,2,2,NULL
+743,18,171,23,"137","The shift is strange though. What were your first thoughts on the article",137,137,60,1,1,2,NULL
+744,18,171,24,"60","I just found it interesting and I was curious about learning more about the effects the seasonal shifts are having.  Are more male polar bears eating more baby polar bears, for example, to make up for more difficult hunting conditions?  Because I believe male polar bears will cannibalize other bears.",60,137,60,2,2,1,NULL
+745,18,171,25,"137","Its definitely possible. I think that they could just be eating less also.",137,137,60,1,1,3,NULL
+746,18,171,26,"60","Yes, that's possible.  And I wonder how that changes their behavior, too.  For example, are they hibernating for shorter periods of time?  And how does all this affect pregnancies?  Lots of interesting questions.  It's like a labratory for studying how life adapts and changes in the face of changing environmental conditions.",60,137,60,1,1,2,NULL
+747,18,171,27,"137","The behavior part is interesting. I imagine they may be more resourceful and skilled",137,137,60,1,0,3,NULL
+748,18,171,28,"60","Yes, you either adapt or die.  And species that have been around for thousands and thousands and thousands of years must be pretty adept at adapting or else they wouldn't still be here.",60,137,60,3,0,1,NULL
+749,18,171,29,"137","Good point. They may need a new name if they adapt for warmer climates",137,137,60,2,0,3,NULL
+750,18,171,30,"60","Yes, that's a funny point!  And they may evolve to have a different fur color too if they start heading south, away from the arctic, to find more food.",60,137,60,2,0,1,NULL
+751,18,172,1,"73","Hello",73,73,138,1,1,0,NULL
+752,18,172,2,"138","hellow, how are you?",138,73,138,1,1,0,NULL
+753,18,172,3,"73","Good, but that article was very sad.",73,73,138,2,2,4,NULL
+754,18,172,4,"138","it was sad.",138,73,138,2,2,4,NULL
+755,18,172,5,"73","Every time I read an article like that one, I wonder why more isn't being done.  It's like people don't realize the urgency of the situation.",73,73,138,2,2,3.5,NULL
+756,18,172,6,"138","What should be done?",138,73,138,1,1,2,NULL
+757,18,172,7,"73","As an example, instead of having all electric cars by 2050, let's do by 2030.",73,73,138,1,1,3,NULL
+758,18,172,8,"138","is that feasible?",138,73,138,1,1,0.5,NULL
+759,18,172,9,"73","Sure. If the government makes it a priority.",73,73,138,2,1,2,NULL
+760,18,172,10,"138","yeah but it is so hard to get massive things like that done",138,73,138,1,2,0.5,NULL
+761,18,172,11,"73","I agree but we have no choice, in my opinion. What if climate change continues to get worse... then we have an even more massive thing to fix ... and it might be too late by then.",73,73,138,3,2,3,NULL
+762,18,172,12,"138","if it continues to get worse, we are all in it together",138,73,138,2,1,3,NULL
+763,18,172,13,"73","That's true. I think there is too much focus on the economy and people are afraid to make changes because they're concerned that jobs will go away.  It's the exact opposite ... we'll create more jobs in the area of renewable energy.",73,73,138,2,1,3,NULL
+764,18,172,14,"138","people hate change",138,73,138,2,2,1.5,NULL
+765,18,172,15,"73","They do.  I even hate change sometimes.  But change is how we got to this place and change is needed to get us out.",73,73,138,3,1,3.5,NULL
+766,18,172,16,"138","even people who are climate activists don't agree on what to do, that is what makes things so hard",138,73,138,2,2,2,NULL
+767,18,172,17,"73","Well they might not agree on every detail, but they all agree that we're not doing enough and we're moving too slowly.",73,73,138,2,2,3.5,NULL
+768,18,172,18,"138","yea, it is hard to galvanize people though",138,73,138,2,2,1.5,NULL
+769,18,172,19,"73","I know.  I sometimes feel like people need to be directly affected by climate change, like having a wildfire in their area, to truly recognize what's happening.",73,73,138,1,2,3.5,NULL
+770,18,172,20,"138","did the article make you feel anxious?",138,73,138,1,1,2,NULL
+771,18,172,21,"73","I've read a lot of articles about climate change and I feel anxious and worried each time.",73,73,138,2,2,4,NULL
+772,18,172,22,"138","man that's not healthy, take a break, focus on the stuff you can change",138,73,138,2,2,3,NULL
+773,18,172,23,"73","I feel I can change things. Even if it's a small amount.  If every one does sometime small, it will add up to big changes.",73,73,138,2,0,4,NULL
+774,18,172,24,"138","Yea, I don't know. I feel like abstaining from meat for climate reasons, or things like that, only makes the person feel better and has no effect at all.",138,73,138,2,2,2,NULL
+775,18,172,25,"73","I think that people should make the changes they feel they can make. If all they want to do is recycle, then that's it.  I believe it's really the small changes that will make a difference, if everyone does at least one small change.",73,73,138,2,0,3.5,NULL
+776,18,172,26,"138","ok, I feel like we can't do anything in response to what corporations do",138,73,138,3,2,3,NULL
+777,18,172,27,"73","I don't agree. If we don't like the choice that a corporation made, we should stop buying from them.",73,73,138,3,1,2,NULL
+778,18,172,28,"138","Its impossible to eliminate unethical companies from your consumption",138,73,138,2,2,1.5,NULL
+779,18,172,29,"73","I think it's challenging, but not impossible",73,73,138,3,0,2.5,NULL
+780,18,172,30,"138","hm, maybe you are right",138,73,138,1,0,1,NULL
+781,18,173,1,"107","hello, did you read the article about the polar bears?",107,107,61,1,1,3,NULL
+782,18,173,2,"61","Hello. Yes I did. What were the emotions that you took from it and what was your first reaction regarding it?",61,107,61,1,1,3,NULL
+783,18,173,3,"107","It was heartbreaking to hear that they are loosing the ability to survive. my first reaction was, If people need proof that global warming is happing, then read this article",107,107,61,3,2,3,NULL
+784,18,173,4,"61"," That's what I was going to ask you, what you thought the article was more geared towards. I couldn't tell if it was kind of both or was referring mostly to climate change or the polar bears",61,107,61,2,1.5,4,NULL
+785,18,173,5,"107","Thats what i took from it, was about how global warming is causing the polar bears across the artic to have shorter winters etc. with them loosing about 7 weeks each year or so for the past 35 years. its about a 25% loss over the 35 years of study they done",107,107,61,2,2,3,NULL
+786,18,173,6,"61","yeah 25% as a whole bunch in my opinion. That would mean in 140 years or less but it'll be gone? Am I doing the math correctly?",61,107,61,2.5,1.5,3,NULL
+787,18,173,7,"107","I think that sounds about right. Wither the data presented was inflated or not. hard to say. There is defiantly a loss there for sure. ",107,107,61,2,2,3,NULL
+788,18,173,8,"61","that is tragic very sad where are the polar bears going to go if that happens?",61,107,61,2.5,2,3,NULL
+789,18,173,9,"107","thats what I was thinking. I know they are on the endangered species list.  Sad reality is, people are too selfish. so more then likely they will all die out. besides the ones in captivity and the ones who live in Alaska etc. ",107,107,61,2.5,2,3,NULL
+790,18,173,10,"61"," Yes I was wondering if they were still on the endangered species list as well. I need to brush up on my geography that's for sure because I don't even know what is near there. I would have to Google it, it's been a long time ",61,107,61,1.5,1.5,3,NULL
+791,18,173,11,"107","I think what they were referring to was Antarctica. I think there are some small towns and such there. Inuit's mostly probably (guessing)  but as far as countries and what not. i think Africa is close?  Same for me. i need to brush up on locations etc. i know the general area lol.",107,107,61,2,1,3,NULL
+792,18,173,12,"61","Same here lol I know the area but it's been so long since I was in school but I guess I should be more aware of things like this. But surely since the study was done that they can come up with a plan or are working on one to help the polar bears there's something awful like that does happen or continues to happen I should say",61,107,61,2,2,3,NULL
+793,18,173,13,"107","yeah totally. More then likely they just want to leave them alone and just store data. but as it dwindles down to the last few they will start protecting them in reserves and such im guessing as well lol",107,107,61,2,1.5,3,NULL
+794,18,173,14,"61","I hope they wouldn't let them like starve to death or watch them die or something.. somebody's gotta do something about that.",61,107,61,2.5,2,3,NULL
+795,18,173,15,"107","maybe they will start air dropping food in or something in remote locations where the tribes of the polar bears are. Might just scare them away though",107,107,61,1.5,2,3,NULL
+796,18,173,16,"61","Hey that's a really good idea airdropping food! Holy smokes that's like really incredible idea good  thinking!! I see your point too I doubt it might scare them away but hopefully it wouldn't because they would be hungry enough they would go to the food ",61,107,61,3,0,3,NULL
+797,18,173,17,"107","another downside i was thinking was if they did air drop food in, im wondering if they would just become reliant on that and tend to stay in the area where it was dropped expecting more to come etc. Thus causing them to not hunt at all. (could be a longshot of a thought) lol ",107,107,61,3,2,3,NULL
+798,18,173,18,"61","(i typed \"I see your point too about it might scare away\" my auto correct changed my word to the word \"doubt\" lol sorry) that's a another great point that you bring up about them becoming reliant and staying in the area. Hopefully the researchers come up with something innovative if they can come up with AI which is absolutely incredible in my opinion they should surely be able to come up with something to help this circumstance. ",61,107,61,2,0,4,NULL
+799,18,173,19,"107","Yeah i agree.  With their 35 years of data they have, they should be able to think of something. lol..... On a side note. i think we still have a few more rounds of this to go before we submit lol",107,107,61,2,0,4,NULL
+800,18,173,20,"61","lol yes im at 9 right now i think... So if you were in charge of a research team and in the Arctic  dealing with this what would be the first thing that you do? ",61,107,61,2,1,4,NULL
+801,18,173,21,"107","I think its 30 total for both of us combined. which means 9 more after this message if thats the case.  If i were in charge? Hard to say without knowing all of the other data that they have found. We were only presented with a small amount for purposes of the article. I would say try to observe first then interact where you can. Overall you want them to still be in their own environment and such",107,107,61,2,1,3,NULL
+802,18,173,22,"61","yes its 30 combined 15 each... Yes we were presented with a small amount of info from the article I probably asked a crazy question lol I was just brainstorming on the idea you had because I thought it was really good about dropping in the food that was really good ",61,107,61,2,0,3,NULL
+803,18,173,23,"107","yeah i think that might be the best. dropping some sort of food via air drop. wither it be live game they can \"hunt\" still themselves. or some sort of food already cut up for them. some way that can still give them a sense of they are doing it on their own lol",107,107,61,2,0,3,NULL
+804,18,173,24,"61","Live game that's pretty good right there too. That way they don't become human dependent and don't forget to learn how to hunt ",61,107,61,2,0,3,NULL
+805,18,173,25,"107","thats kind of the route that i think might be best or more \"natural\" i guess",107,107,61,1,0,3,NULL
+806,18,173,26,"61","yes I agree. What is that called when animals that are wild become dependent on humans it's not like being team but there's another name for it and I cannot think of what it's called it's right on the tip of my tongue ",61,107,61,2,1,3,NULL
+807,18,173,27,"107","i think i know what your talking about. lol now i cant think of the name either ",107,107,61,2,1,4,NULL
+808,18,173,28,"61","lol that's gonna drive me crazy til i remember lol. It'll be one of those things that come to me at 3 o'clock in the morning when I'm not thinking about it lol ",61,107,61,3,0,3,NULL
+809,18,173,29,"107","haha i know that feeling. might be something i have to end up googling. lol",107,107,61,2,0,3,NULL
+810,18,173,30,"61","me too haha you sound just like me lol",61,107,61,2,0,3,NULL
+811,18,174,1,"122","Hello",122,122,139,1,1,0,NULL
+812,18,174,2,"139","Howdy!",139,122,139,3,0,0,NULL
+813,18,174,3,"122","Were you aware of what was happening to the polar bear population prior to reading this?",122,122,139,1,1,1,NULL
+814,18,174,4,"139","I had known that ice was melting in the polar regions, but I hadn't really thought about how much it might impact polar bears and other animals. What about you?",139,122,139,1,1,2,NULL
+815,18,174,5,"122","Same, I guess I hadn't focused too much on the polar bear population. It's sad to think this is happening.",122,122,139,2,2,3,NULL
+816,18,174,6,"139","Yeah, it is not fun to think that we might be causing issues for the polar bears. It was a bit of an eye opener to make me think about it like that.",139,122,139,2,2,3,NULL
+817,18,174,7,"122","Do you believe climate change is occurring and caused by humans?",122,122,139,1,1,2,NULL
+818,18,174,8,"139","Yeah, I definitely believe that climate change is happening and is primarily caused by humans. I think it's awful how much we are abusing the planet. That's just my feelings on it though.",139,122,139,3,2,4,NULL
+819,18,174,9,"122","I agree, hard to imagine how anyone wouldn't believe that with all of the research that has been done.",122,122,139,2,2,2,NULL
+820,18,174,10,"139","You would think, but lots of people still don't believe it! Maybe if they read the article about the polar bears or saw videos of it they might change their mind.",139,122,139,2,1,3,NULL
+821,18,174,11,"122","What are some of the way you are trying to lessen your impact on global warming?",122,122,139,1,1,2,NULL
+822,18,174,12,"139","I try to minimize the electricity I use. I'll turn lights off when I'm not using them, I keep my home cool in winter, warmer in summer. Things like that.",139,122,139,2,1,2,NULL
+823,18,174,13,"122","I do those things as well. I recently bought a hybrid vehicle as I am not quite sold on full electric yet but I feel good about that.",122,122,139,2,0,2,NULL
+824,18,174,14,"139","Nice! That's definitely a good and large step to take. Hybrids definitely are better for the environment than non-hybrids. The polar bears would thank you :)",139,122,139,3,0,3,NULL
+825,18,174,15,"122","I agree, I am also hoping to get solar panels installed at some point",122,122,139,1,0,2,NULL
+826,18,174,16,"139","That would be good, and could also pay for themselves in the long run. They can make a big impact on reducing your electric bill.",139,122,139,2,0,2,NULL
+827,18,174,17,"122","My electric bills were astronomical this last winter. I hope to offset a lot of that through solar. ",122,122,139,2,0,1,NULL
+828,18,174,18,"139","Smart thinking. Also I should have asked earlier to make sure we got the same article. Was yours about how ice was melting more and the data associated with the research? ",139,122,139,2,1,1,NULL
+829,18,174,19,"122","Yes, that is corect, same article",122,122,139,1,1,1,NULL
+830,18,174,20,"139","Just checking lol. I was a bit surprised by some of the numbers in it such as how many weeks of \"good ice\" time the polar bears get now.",139,122,139,2,1,3,NULL
+831,18,174,21,"122","I agree, that was surprising. Do you think we will be able to stop or reverse global warming?",122,122,139,2,1,2,NULL
+832,18,174,22,"139","I sure hope so, but I'm not sure. It seems like it might already be too late, but scientific advances are always surprising me. Also as it gets harder and harder to deny it, more money will get invested in research.",139,122,139,2,1,2,NULL
+833,18,174,23,"122","I hope so as well. I get a bit nervous for my kids and society's future when I think about the lasting impacts.",122,122,139,3,2,2,NULL
+834,18,174,24,"139","Hopefully the future will be better for your kids! Using those polar bears and other cute animals might be a good way to get people to pay more attention. It's hard to say no to cute animals.",139,122,139,3,0,3,NULL
+835,18,174,25,"122","Great point, I hope that is a selling point for others! I just can't understand why some people chose to disregard the issue. Unfortunately the government may need to impost stricter guidelines for people like that.",122,122,139,3,2,3,NULL
+836,18,174,26,"139","Gonna be hard to impose stricter guidelines since people who don't believe in it are generally against more government interference. Fingers crossed though they will change their mind.",139,122,139,2,1,3,NULL
+837,18,174,27,"122","That is unfortunately true. I wish everyone could work together for the greater good. That's the only way anyone will win.",122,122,139,2,1,3,NULL
+838,18,174,28,"139","Well I think our conversation is almost over. It's been nice chatting with you and I hope you have a good rest of your day!",139,122,139,3,0,0,NULL
+839,18,174,29,"122","You as well, thank you!",122,122,139,3,0,0,NULL
+840,18,174,30,"139","Bye!",139,122,139,3,0,0,NULL
+841,18,175,1,"38","hi!",38,38,108,1,0,0,NULL
+842,18,175,2,"108","Hello!",108,38,108,1,0,0,NULL
+843,18,175,3,"38","how are you?",38,38,108,1,0.5,0,NULL
+844,18,175,4,"108","not too bad, yourself?",108,38,108,1,1,0,NULL
+845,18,175,5,"38","same just thinking about what to say about this article",38,38,108,1,1,0,NULL
+846,18,175,6,"108","I can't believe we'll eventually have a world without polar bears",108,38,108,2,1.5,2,NULL
+847,18,175,7,"38","I really don't either in our life time anyway",38,38,108,1,1.5,2,NULL
+848,18,175,8,"108","I read today that there are less than 30,000 left in the world",108,38,108,1,1,1,NULL
+849,18,175,9,"38","wow! Thats unreal",38,38,108,3,1.5,2,NULL
+850,18,175,10,"108","yeah, whats your favorite bear?",108,38,108,1,1,0,NULL
+851,18,175,11,"38","I would have to say a panda ...you?",38,38,108,1,1,0,NULL
+852,18,175,12,"108","either panda or sun bear, theyre so small and derpy",108,38,108,2,1,0,NULL
+853,18,175,13,"38","i dont think I'm familar with a sun bear",38,38,108,1,1,0,NULL
+854,18,175,14,"108","Theyre basically the size of a large cub",108,38,108,1,1,0,NULL
+855,18,175,15,"38","they sound really cool",38,38,108,2,0,0,NULL
+856,18,175,16,"108","On topic of polar bears though they are scary! Thats one of those animals where if you spot it its already too late",108,38,108,3,1.5,1,NULL
+857,18,175,17,"38","yes i agree..I wish there were more that we could do to prevent this from happening",38,38,108,2,2,3,NULL
+858,18,175,18,"108","Same! I don't really know where to begin though aside from doing ym part to slow down the climate",108,38,108,2,1,3,NULL
+859,18,175,19,"38","Right. I wouldn't know where to start really",38,38,108,2,1,2,NULL
+860,18,175,20,"108","What do you call a bear with no teeth?",108,38,108,1,1,0,NULL
+861,18,175,21,"38","a gummy bear!?",38,38,108,2,1,0,NULL
+862,18,175,22,"108","Yes!",108,38,108,3,0,0,NULL
+863,18,175,23,"38","Haha! That was a good one!",38,38,108,3,0,0,NULL
+864,18,175,24,"108","I wish I could take credit for it haha",108,38,108,2,0.5,0,NULL
+865,18,175,25,"38","you can on my part",38,38,108,1,0.5,0,NULL
+866,18,175,26,"108","What do you call a wet bear?",108,38,108,1,1,0,NULL
+867,18,175,27,"38","hmmm.... what?",38,38,108,1,1,0,NULL
+868,18,175,28,"108","A drizzly bear!",108,38,108,2,0.5,0,NULL
+869,18,175,29,"38","hahahaha... Awesome..Love it!",38,38,108,3,0,0,NULL
+870,18,175,30,"108","I think we're about done?",108,38,108,1,1,0,NULL
+871,18,179,1,"140","I was disappointed with what I read, but not really surprised by it.",140,140,65,3,2,2,NULL
+872,18,179,2,"65","Hello how are doing today?",65,140,65,1,1,0,NULL
+873,18,179,3,"140","I'm doing well and yourself?",140,140,65,2,1,0,NULL
+874,18,179,4,"65","I am well too. ",65,140,65,1,1,0,NULL
+875,18,179,5,"140","So in regards to the article, I was highly disappointed with what is happening, but hardly surprised by it",140,140,65,3,2,3,NULL
+876,18,179,6,"65","What did you read about? mine was about the arctic ice melting earlier this year and polar bears losing their homes ",65,140,65,1,1,1,NULL
+877,18,179,7,"140","Yeah that is the one that I read.  I'm just disappointed that we, as humans, have let it get so bad, to clarify my disappointment",140,140,65,3,2,4,NULL
+878,18,179,8,"65","yeah me too I think that we are solely responsible ",65,140,65,2,2,3,NULL
+879,18,179,9,"140","I agree.  It seems more natural disasters and more species going extinct and it's so incredibly sad that it seems those in power, who could actually help, don't care",140,140,65,4,2,3,NULL
+880,18,179,10,"65","especially the big companies that are polluting the environment ",65,140,65,3,2,3,NULL
+881,18,179,11,"140","Yeah :(  they have far too much power in politics since they can buy the politicians.  The bigger companies make billions and get angry if they have to pay more in taxes so instead of making, say 5 billion, they may only make 4.8b",140,140,65,3,2,2,NULL
+882,18,179,12,"65","it is so unfair for everyone affected especially the animals",65,140,65,3,2,4,NULL
+883,18,179,13,"140","Exactly, the ones who can't speak or defend themselves",140,140,65,3,2,4,NULL
+884,18,179,14,"65","apart from sadness, what other emotions did you get while reading the article?",65,140,65,1,1,1,NULL
+885,18,179,15,"140","Definitely anger as well as anxiety.  Melting icecaps raise ocean levels which can affect coastal areas",140,140,65,3,2,2,NULL
+886,18,179,16,"65","same here. I only wish there was something I could do to help",65,140,65,2,2,3,NULL
+887,18,179,17,"140","Same here, I also fear for what my kids will be left with in the future.  How about you?",140,140,65,3,2,2,NULL
+888,18,179,18,"65","Yes I worry about the world the future generations are going to live in ",65,140,65,3,2,2,NULL
+889,18,179,19,"140","Yeah.  I do hope that we can change things both for the polar bears and the world in general before it is too late for anyone",140,140,65,3,0,3,NULL
+890,18,179,20,"65","me too. change needs to happen ",65,140,65,2,1,3,NULL
+891,18,179,21,"140","I'm sure there are little things we can do to help, but as we said earlier, it's those bigger polluters that need to do the bulk of the work",140,140,65,2,2,2,NULL
+892,18,179,22,"65","can you give me an example of things one can do?",65,140,65,1,1,1,NULL
+893,18,179,23,"140","I would say we can put pressure on the worst offenders.  Boycotts and (peaceful) protests.  Call them out and hope that they take it to heart.  As an individual we can recycle more, walk/bike or car share to cut carbon emissions",140,140,65,3,0,3,NULL
+894,18,179,24,"65","that could work. ",65,140,65,2,0,2,NULL
+895,18,179,25,"140","I think it would have to take a concerted effort by many people in order for it to start making a difference",140,140,65,2,0,2,NULL
+896,18,179,26,"65","thats true. what was your first reaction while reading the article?",65,140,65,2,1,1,NULL
+897,18,179,27,"140","Definitely anger, but sadness was right up there with it.  What were your feelings?",140,140,65,2,2,3,NULL
+898,18,179,28,"65","I wasn't surprised but I felt pity for the animals ",65,140,65,2,2,3,NULL
+899,18,179,29,"140","Exactly.  Is it sad that we're not even surprised by this?  :(",140,140,65,3,2,2,NULL
+900,18,179,30,"65","yeah I have been following the climate change quite closely  ",65,140,65,3,1,2,NULL
+901,19,183,1,"143","hello, my first reaction to the article was to feel angry",143,143,49,3,2,2,NULL
+902,19,183,2,"49","yeah me too",49,143,49,2,2,2,NULL
+903,19,183,3,"143","I don't like hearing about abuse happening to children",143,143,49,3,2,3,NULL
+904,19,183,4,"49","he had a rough life",49,143,49,2,2,2,NULL
+905,19,183,5,"143","yeah, and nobody really protected him",143,143,49,2,2,2,NULL
+906,19,183,6,"49","why those assholes adopted him i don't know",49,143,49,3,2,3,NULL
+907,19,183,7,"143","or how an adoption agency let people like that adopt him",143,143,49,2,2,2,NULL
+908,19,183,8,"49","yes exactly",49,143,49,2,1,2,NULL
+909,19,183,9,"143","seems like there are problems with adoption in this country because it happened twice",143,143,49,2,2,2,NULL
+910,19,183,10,"49","i don't get how he still wasn't a citizen",49,143,49,2,1,2,NULL
+911,19,183,11,"143","adoption should be to provide a better life, not abuse",143,143,49,3,2,2,NULL
+912,19,183,12,"49","i wonder what happened to the parents",49,143,49,1,2,2,NULL
+913,19,183,13,"143","i wondered too. I didn't know that being adopted by us citizens didn't automatically make you a citizen",143,143,49,2,2,2,NULL
+914,19,183,14,"49","that makes no sense",49,143,49,2,2,2,NULL
+915,19,183,15,"143","I agree, it should be to prevent from happening to anyone else",143,143,49,2,2,3,NULL
+916,19,183,16,"49","and what about his kids",49,143,49,2,1,3,NULL
+917,19,183,17,"143","exactly, poor kids will lose their dad",143,143,49,3,2,4,NULL
+918,19,183,18,"49","are they citizens?",49,143,49,1,1,2,NULL
+919,19,183,19,"143","oh true, that makes no sense either if not since they were born here",143,143,49,2,1,2,NULL
+920,19,183,20,"49","i just hope they fix it and get him back",49,143,49,2,0,3,NULL
+921,19,183,21,"143","me too, hopefully someone is fighting for him",143,143,49,2,0,3,NULL
+922,19,183,22,"49","hopefully the articles brings awareness",49,143,49,2,0,3,NULL
+923,19,183,23,"143","maybe a movement will be started to pass some new adoption laws",143,143,49,2,0,3,NULL
+924,19,183,24,"49","yes and politicians that care",49,143,49,2,0,1,NULL
+925,19,183,25,"143","yes if we could find some that would be nice",143,143,49,2,0,1,NULL
+926,19,183,26,"49","i wonder if south korea would consider him a \"citizen\"",49,143,49,2,1,2,NULL
+927,19,183,27,"143","maybe because he was born there, but I don't know much about their government or laws",143,143,49,2,1,2,NULL
+928,19,183,28,"49","hopefully we get updates about him",49,143,49,1,0,3,NULL
+929,19,183,29,"143","and his wife, that's a lot for a mom to deal with",143,143,49,2,1,2,NULL
+930,19,183,30,"49","yeah she will need help",49,143,49,2,1,2,NULL
+931,19,184,1,"144","Hi, are you there?",144,144,145,1,1,1,NULL
+932,19,184,2,"145","Yes, what did you think of the article?",145,144,145,1,1,1,NULL
+933,19,184,3,"144","It's bad and unfair",144,144,145,2,2,3,NULL
+934,19,184,4,"145","I agree. Sometimes I think we do things like that because we want to feel that we are better than others.",145,144,145,1.5,2,3,NULL
+935,19,184,5,"144","It was most perplexing that they didn't even sign the boy up for his citizenship, as if they already knew that they wanted to mistreat him.",144,144,145,2.5,2,2,NULL
+936,19,184,6,"145","Yes, I felt that that was a part of the abuse. I have a problem dealing with the abuse of children.  I have seen the results.",145,144,145,1.5,2,4,NULL
+937,19,184,7,"144","Yeah, a lot of people don't like it. I think it's heinous because kids can't protect themselves and they need others to do so. And also, that the most vulnerable part of a person's life.",144,144,145,2.5,2,2,NULL
+938,19,184,8,"145","Yeah, and when the system failed him, he got into trouble. He gets turned around, and the system attacks him again. We've lost what little compassion we had.",145,144,145,2,2,4,NULL
+939,19,184,9,"144","I got a lot of respect for the adopted parents that treat their kids well.",144,144,145,2,0,2,NULL
+940,19,184,10,"145","Yes. One of my nephews has 2 adopted and two of their own. They would correct me at once and tell me they have 4 kids.",145,144,145,2,1,2,NULL
+941,19,184,11,"144","Haha, wow! That's good to hear that they treat them all well :D",144,144,145,3,0,1,NULL
+942,19,184,12,"145","Yeah, he's a good kid that came from a tough upbringing. I've always been very proud of him and his wife.",145,144,145,2.5,0,1,NULL
+943,19,184,13,"144","They are people to be proud of :D I hope that the man in the story can come back over and be with his family - if the story is real. Sometimes they use fake stories, but it still is something to get mad at -_-",144,144,145,2.5,0,3,NULL
+944,19,184,14,"145","Yeah, I live in Texas and have seen similar things happen quite a bit. It seems to me that if a person has spent their entire life here and acted like a citizen, then they should be treated like one. ",145,144,145,2,1,4,NULL
+945,19,184,15,"144","That's what I think. I thought people get their citizenship after 15 years of staying here anyway.",144,144,145,1,1,3,NULL
+946,19,184,16,"145","No, apparently not. We seem to just be looking for reasons to deport people, even using the smallest technicalities. We have deported people who served in the military when it turned out that they weren't really citizens.",145,144,145,2,2,3,NULL
+947,19,184,17,"144","What?! That is crazy!",144,144,145,3,2,2,NULL
+948,19,184,18,"145","Sure, dreamers who have been here nearly their entire lives who wanted to serve their country. Sad and ridiculous.",145,144,145,2.5,2,2,NULL
+949,19,184,19,"144","They shouldn't have been deported. I'm a little appalled at that. How can someone fight for the country just to be deported later? America needs to make some changes.",144,144,145,3,2,3,NULL
+950,19,184,20,"145","The problem is that the changes we have made are designed to hurt people. When I read about the man in the article all I saw was us punishing someone who was trying to do the right thing. The thing is that most of the people around here are all for that sort of behavior.",145,144,145,2,2,3,NULL
+951,19,184,21,"144","I wouldn't be surprised. Many people in America are oppressors. Even some of the oppressed go on to oppress people who are more vulnerable than them. I feel sad for them going through such things.",144,144,145,2.5,2,3,NULL
+952,19,184,22,"145","Yeah, it seems like a lot of us need someone to hate.",145,144,145,2,2,2,NULL
+953,19,184,23,"144","That type of personality is so lazy - taking the easy way out. The regrets later are going to hit them like a ton of bricks.",144,144,145,2.5,2,2,NULL
+954,19,184,24,"145","Maybe, but a lot of them are so convinced that they are right that I doubt their conscious will ever bother them. ",145,144,145,2,1,2,NULL
+955,19,184,25,"144","Aww, I don't like the thought of that. I was about to say someone must have told them they are doing wrong, but then they surround themselves with people who tell them that they are doing right. It's disheartening. I wonder what makes some people aware and while others are not.",144,144,145,3,2,2,NULL
+956,19,184,26,"145","I think that people get in echo chambers with others who feel the same way they do, and they convince each other that they are right and the rest of the world is wrong. It would be funny if it didn't hurt others so much..",145,144,145,2,2,2,NULL
+957,19,184,27,"144","Oh, yeah. And if no physical person is there, they can go online where there is bound to be some people who agrees with them.",144,144,145,2,1,2,NULL
+958,19,184,28,"145","YouTube too. One of my friends got me to look at a video about 9/11. For the next month everything I got in my feed was a conspiracy theory, one crazier than the other. No wonder people are scared.",145,144,145,2,2,1,NULL
+959,19,184,29,"144","Oh, those conspiracy theories are very weird! On was about the moon landing being faked. I like astronomy and they had my curiosity piqued.",144,144,145,2,1,1,NULL
+960,19,184,30,"145","The scary thing is that the more facts you give them that show they are wrong, the more convinced they are that they are right.",145,144,145,2.5,1,1,NULL
+961,19,190,1,"149","Hi",149,149,130,1,1,1,NULL
+962,19,190,2,"130","Hey",130,149,130,1,1,1,NULL
+963,19,190,3,"149","How are you doing?",149,149,130,1,1,1,NULL
+964,19,190,4,"130","I'm pretty good. How about you?",130,149,130,1.5,0,1,NULL
+965,19,190,5,"149","Not bad.   So, what did you think about the article on Adam Crapser?   I feel very sympathetic for him as I don't believe that he is responsible for his situation.",149,149,130,1.5,2,3,NULL
+966,19,190,6,"130","It's horrible. I feel like an exception should be made in his case. It wasn't his fault.",130,149,130,2.5,2,4,NULL
+967,19,190,7,"149","There were obvious mistakes made during the adoption process when he was a child.  He should not be punished for those mistakes.",149,149,130,2,2,3,NULL
+968,19,190,8,"130","No, he shouldn't. And to make matters worse, his family is going to suffer.",130,149,130,2.5,2,3,NULL
+969,19,190,9,"149","I agree.   Deporting him rips his family apart and causes everyone to suffer.",149,149,130,2,2,3,NULL
+970,19,190,10,"130","And all for what was essentially a paperwork error. Given the life he lived up to that point with the abuse he suffered, it's hard to not feel sorry for him.",130,149,130,2,2,4,NULL
+971,19,190,11,"149","This case was a few years ago.  Do you know what eventually transpired?",149,149,130,1.5,1,0,NULL
+972,19,190,12,"130","Supposedly there was a bill that was being debated in Congress. I don't know if it passed, but I think it might've been too late for Crapser anyway. ",130,149,130,1.5,2,2,NULL
+973,19,190,13,"149","Yeah.  Looks that way.  I think that he was eventually deported.   Too bad the case didn't get more media attention at the time it was happening.",149,149,130,2,2,2,NULL
+974,19,190,14,"130","Yeah, it might've caused congress to solve the immigration problem once and for all. A missed opportunity and now more will suffer.",130,149,130,2,2,2,NULL
+975,19,190,15,"149","It's even worse because his kids are really young and at the age where they need a father presence in their lives.",149,149,130,2.5,2,3,NULL
+976,19,190,16,"130","Yeah, it just wasn't worth causing kids to grow up in a broken home to deport this man.",130,149,130,2.5,2,3,NULL
+977,19,190,17,"149","I believe that there were a lot of \"hidden\" issues in the adoption system back in the 40s, 50s, 60s, and 70s.   I don't think a lot of changes were made until issues were identified starting in the 1980s.",149,149,130,2.5,2,0,NULL
+978,19,190,18,"130","It's probably still broken. I hope no other family has to go through this. Just no excuse for it. Hopefully Crapser found a way to get back to his family.",130,149,130,2,2,3,NULL
+979,19,190,19,"149","I just feel sad and angry that we, as a nation, allowed his situation to get to that point.",149,149,130,2,2,3,NULL
+980,19,190,20,"130","People don't pay too much attention to issues, which is the problem. If it doesn't affect them personally, they don't care.",130,149,130,2.5,2,2,NULL
+981,19,190,21,"149","I just wish that a politician in his state had championed his situation and tried to prevent the deportation.",149,149,130,2,1,2,NULL
+982,19,190,22,"130","Yeah, they probably could've gotten a lot of advertising and fundraising out of it. It would've been a win-win.",130,149,130,2,1,2,NULL
+983,19,190,23,"149","Also, most of this transpired during the Obama administration.   The Trump administration became even more hardline on deportations.",149,149,130,1.5,1,1,NULL
+984,19,190,24,"130","I think some deportations should have exemptions made for them. A lot shouldn't be eligible like unauthorized border-crossings, but this was a unique situation.",130,149,130,1.5,1,2,NULL
+985,19,190,25,"149","The other sad fact is that Adam was deported to South Korea but he has no idea how to speak Korean.",149,149,130,2,2,3,NULL
+986,19,190,26,"130","That's horrible. It must be scary being deported to a country you've never known and you can't even speak the language there.",130,149,130,2,2,4,NULL
+987,19,190,27,"149","Yep.   It's like being thrust into an environment that you have had no exposure to.   The whole cycle of trauma now passes down to another generation.",149,149,130,2.5,2,3,NULL
+988,19,190,28,"130","Nobody should ever have to go through what Crapser did. I hope he's doing better these days.",130,149,130,2,1,3,NULL
+989,19,190,29,"149","I hope that someone read about his case and was willing to support him and his family financially or to even relocate them to a third country.   Canada has always seemed very open to refugees?",149,149,130,2.5,0,3,NULL
+990,19,190,30,"130","Yeah, that sounds like a good idea. Maybe someone could start a crowdfund for him.",130,149,130,2,0,0,NULL
