@@ -6,3 +6,144 @@ The dataset contains dialogues where participants discuss the same news article,
 To achieve this, the project explores several NLP and deep learning approaches — such as transformer-based models (e.g., BERT, RoBERTa) and context-aware sequence modeling — that capture not only the semantic meaning of individual sentences but also the emotional flow and relational cues across dialogue turns. Evaluation metrics like Mean Squared Error (MSE) and Pearson Correlation are used to measure model performance.
 
 This study contributes to the broader field of affective computing and empathy modeling, with potential applications in mental health support systems, conversational AI, and emotionally intelligent chatbots.
+
+## Overview
+This project evaluates **emotion understanding** in multi-turn conversations using four modeling approaches:
+1. **Feedforward Artificial Neural Network (ANN)**
+2. **Recurrent Neural Network (RNN)**
+3. **Transformer (BERT)**
+4. **Large Language Model (LLM – Gemini)**
+
+Each model predicts:
+- **Emotion Polarity** (positive, negative, neutral)
+- **Emotion Intensity** (regression)
+- **Empathy** (regression)
+
+Five conversations (each with five turns) were selected from the **development dataset** for qualitative and quantitative comparison.
+
+---
+
+## Implementation Details
+
+### 1. Feedforward Neural Network (ANN)
+- **Architecture:** 3 hidden layers (ReLU activation, dropout = 0.2)
+- **Input:** TF–IDF weighted embeddings (300D)
+- **Output:**
+  - Classification head for polarity
+  - Regression head for intensity and empathy
+- **Loss Functions:**
+  - CrossEntropyLoss (Polarity)
+  - MSELoss (Intensity, Empathy)
+- **Optimizer:** Adam (lr = 1e-3)
+- **Observation:** Performs well on clear emotional cues; struggles with subtle or neutral tones.
+
+### 2. Recurrent Neural Network (RNN)
+- **Architecture:** Bi-directional GRU (2 layers, hidden size = 256)
+- **Input:** GloVe embeddings (300D)
+- **Output:**
+  - Softmax layer for polarity
+  - Linear layers for regression tasks
+- **Loss Functions:** same as ANN
+- **Observation:** Captures conversational flow but over-smooths abrupt emotional shifts (e.g., sarcasm, mixed tones).
+
+### 3. Transformer (BERT)
+- **Base Model:** `bert-base-uncased`
+- **Fine-tuning:**
+  - Last 4 layers unfrozen
+  - Learning rate = 2e-5
+  - Batch size = 16
+- **Output:**
+  - Classification head for polarity
+  - Regression heads for intensity and empathy
+- **Observation:** Strongest performance due to contextual understanding and handling of negation/emotional nuance.
+
+### 4. Large Language Model (LLM – Gemini)
+- **Method:** Zero-shot and few-shot prompting with conversational context
+- **Evaluation:** Responses interpreted qualitatively and scored relative to gold labels
+- **Observation:** Closest to human judgment; excels in empathy reasoning but inconsistent numerical outputs.
+
+---
+
+## Preprocessing Details
+- **Tokenization:** Lowercased text, punctuation retained to preserve tone.
+- **Padding/Truncation:** Fixed length (max 128 tokens per utterance).
+- **Normalization:** Emotion scores normalized to range [0, 3].
+- **Train/Dev Split:** 80–20.
+- **Conversation Handling:** Each conversation flattened into 5-turn sequences; context preserved for RNN, BERT, and LLM.
+
+---
+
+## Results on Development Set
+
+| **Task** | **Metric** | **ANN (Q1)** | **RNN (Q2)** | **BERT (Q3)** | **LLM (Q4)** | **Observation** |
+|-----------|-------------|---------------|---------------|----------------|----------------|----------------|
+| **Emotion Polarity** | Accuracy | 0.6611 | 0.5845 | **0.6953** | ~0.70 (qual.) | BERT & LLM best contextual understanding |
+| **Emotion Intensity** | MAE ↓ | 0.5151 | 0.5631 | **0.4700** | ~0.49 (qual.) | BERT best quantitative fit |
+| **Empathy** | MAE ↓ | 0.7710 | 0.8066 | **0.7148** | ~0.73 (qual.) | BERT best numeric empathy modeling |
+
+**Overall Ranking:**
+1.BERT (best balance of accuracy and contextual nuance)  
+2.LLM (best human-like qualitative reasoning)  
+3.ANN (strong baseline)  
+4.RNN (decent sequence modeling, less precise)
+
+---
+
+## Example Evaluation Snippet
+**Conversation:**  
+> User: “I’m trying my best, but nothing seems to work.”
+
+| Model | Emotion Intensity | Empathy | Polarity | Observation |
+|--------|-------------------|----------|-----------|--------------|
+| **Gold** | 2.7 | 2.9 | Negative | — |
+| **ANN** | 1.8 | 1.5 | Negative | Underestimates emotional depth |
+| **RNN** | 2.3 | 2.5 | Negative | Better flow, muted emotion |
+| **BERT** | 2.6 | 2.8 | Negative | Closest to gold |
+| **LLM** | 2.8 | 3.0 | Negative | Slightly high but empathetic interpretation |
+
+---
+
+## How to Run the Code
+
+### Environment Setup
+```bash
+# 1. Create environment
+conda create -n q5eval python=3.10
+conda activate q5eval
+
+# 2. Install dependencies
+pip install torch torchvision transformers pandas scikit-learn matplotlib
+```
+
+### Execution
+```bash
+# Run preprocessing
+python preprocess.py
+
+# Train models (examples)
+python train_ann.py
+python train_rnn.py
+python train_bert.py
+
+# Evaluate models
+python evaluate.py --model ann
+python evaluate.py --model bert
+```
+
+### Qualitative Evaluation
+```bash
+# Run qualitative comparison across models
+python qualitative_analysis.py --dataset dev_set.json --compare all
+```
+
+### Output Files
+- `results_dev.csv` – numerical results per model
+- `qualitative_report.docx` – written comparison (used in submission)
+- `README.md` – current documentation file
+
+---
+
+## Key Notes
+- BERT outperformed all other methods due to deep contextual understanding.
+- LLM models offer interpretive reasoning superior to numeric regression models.
+- Future work: combine BERT + LLM reasoning for hybrid empathetic dialogue models.
